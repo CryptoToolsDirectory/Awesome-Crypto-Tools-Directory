@@ -347,6 +347,55 @@ Explore top DeFi platforms and tools that make decentralized finance easy, secur
     </table>
     
 
+
+## ⚖️ Compliance, Risk & AML
+
+Tools for cryptocurrency AML screening, sanctions compliance, and risk assessment.
+
+<table style="width:100%; border-collapse:collapse; border:none;">
+  <thead>
+    <tr style="background-color:#1A1A1A;">
+      <th style="padding:8px; border:none;">Tool</th>
+      <th style="padding:8px; border:none;">Type</th>
+      <th style="padding:8px; border:none;">Free Tier</th>
+      <th style="padding:8px; border:none;">Chains</th>
+      <th style="padding:8px; border:none;">Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color:#2C2C2C;">
+      <td style="padding:8px; border:none;"><a href="https://cryptoaml.ai">CryptoAML</a></td>
+      <td style="padding:8px; border:none;">Web + Telegram Bot</td>
+      <td style="padding:8px; border:none;">Yes (3/day free)</td>
+      <td style="padding:8px; border:none;">30+</td>
+      <td style="padding:8px; border:none;">OFAC/UN/EU sanctions screening, no signup needed; Telegram: <a href="https://t.me/cryptoamlscan_bot">@cryptoamlscan_bot</a></td>
+    </tr>
+    <tr style="background-color:#1A1A1A;">
+      <td style="padding:8px; border:none;"><a href="https://www.chainalysis.com/">Chainalysis</a></td>
+      <td style="padding:8px; border:none;">Enterprise Platform</td>
+      <td style="padding:8px; border:none;">No</td>
+      <td style="padding:8px; border:none;">20+</td>
+      <td style="padding:8px; border:none;">Industry standard for compliance teams and law enforcement</td>
+    </tr>
+    <tr style="background-color:#2C2C2C;">
+      <td style="padding:8px; border:none;"><a href="https://www.elliptic.co/">Elliptic</a></td>
+      <td style="padding:8px; border:none;">Enterprise Platform</td>
+      <td style="padding:8px; border:none;">No</td>
+      <td style="padding:8px; border:none;">50+</td>
+      <td style="padding:8px; border:none;">Blockchain analytics and AML compliance for institutions</td>
+    </tr>
+    <tr style="background-color:#1A1A1A;">
+      <td style="padding:8px; border:none;"><a href="https://www.scorechain.com/">Scorechain</a></td>
+      <td style="padding:8px; border:none;">SaaS Platform</td>
+      <td style="padding:8px; border:none;">Trial</td>
+      <td style="padding:8px; border:none;">30+</td>
+      <td style="padding:8px; border:none;">Risk monitoring and VASP compliance reporting</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
 ## 📖 Dictionary
 
 This section explains common terms used in this README.
