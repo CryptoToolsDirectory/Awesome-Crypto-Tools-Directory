@@ -343,6 +343,13 @@ Explore top DeFi platforms and tools that make decentralized finance easy, secur
       <td style="padding:8px; border:none;">Analytics tools</td>
       <td style="padding:8px; border:none;">MultiChain</td>
     </tr>
+    <tr style="background-color:#2C2C2C;">
+      <td style="padding:8px; border:none;"><a href="https://vaultvision.tech/vaults/scanner">VaultVision</a></td>
+      <td style="padding:8px; border:none; min-width:100px; white-space:nowrap;">Not rated</td>
+      <td style="padding:8px; border:none;">Free</td>
+      <td style="padding:8px; border:none;">Vault scanner and risk analytics</td>
+      <td style="padding:8px; border:none;">Hyperliquid</td>
+    </tr>
     </tbody>
     </table>
     
