@@ -347,6 +347,18 @@ Explore top DeFi platforms and tools that make decentralized finance easy, secur
     </table>
     
 
+## 🧑‍💻 Developers, APIs & Data Sources
+
+API platforms and data sources for developers building crypto and blockchain applications.
+
+| Service | Type | Payment | Highlights |
+|---------|------|---------|------------|
+| [AgentServices](https://agentservices.to) | Crypto/Market Data API | x402 (USDC on Base) | 54 services, 97 endpoints, 41 x402-paid, MCP server with 37 tools |
+| [CoinGecko](https://www.coingecko.com/) | Market Data API | Free tier + Paid | Crypto prices, market caps, exchange data |
+| [CryptoCompare](https://www.cryptocompare.com/) | Market Data API | Free tier + Paid | Real-time and historical crypto data |
+| [Glassnode](https://glassnode.com/) | On-chain Analytics | Paid | Blockchain metrics and intelligence |
+| [Kaiko](https://www.kaiko.com/) | Market Data API | Paid | Institutional-grade crypto market data |
+
 ## 📖 Dictionary
 
 This section explains common terms used in this README.
