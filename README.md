@@ -108,6 +108,7 @@ From liquid staking and lending to yield trading and restaking—compare battle-
 | [JustLend](https://cryptotoolsdirectory.com/tools/justlend) | 8.7 /10  | Free  | Lending                | TRON                                                              |
 | [Jito](https://cryptotoolsdirectory.com/tools/jito)          | 8.8 /10  | Free  | Liquid staking and MEV | Solana                                                            |
 | [Maple](https://cryptotoolsdirectory.com/tools/maple)        | 8.9 /10  | Free  | Institutional lending  | Ethereum, Solana                                                  |
+| [VaultVision](https://vaultvision.tech/vaults/scanner) | 8.6 /10  | Free  | Vault analytics        | Hyperliquid                                                       |
 
 ---
 
