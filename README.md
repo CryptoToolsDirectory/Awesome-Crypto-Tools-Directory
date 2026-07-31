@@ -1,355 +1,347 @@
-# Awsome Crypto Tools List and Directory
+# Awesome Crypto Tools List & Directory (2026)
 
-Welcome! This is a **hand-picked list of cryptocurrency and blockchain tools** explorers, OSINT and visualization apps, APIs, scam and abuse databases, compliance and AML resources, exchanges, wallets, and learning links so you can find what you need fast whether you work in **fraud investigation**, **threat intelligence**, **compliance**, or you are simply **learning how on-chain analysis works**. Everything here is organized in one place to save your search time.
+> **Stop guessing. Start comparing.** The curated crypto tools directory for traders, DeFi users, investigators, compliance teams, and builders—ranked, categorized, and updated for real decisions.
 
-## 📑 Directory
-
-- [💱 Exchanges](#-exchanges)
-- [🔁 Dex (Decentralised Exchanges)](#dex-decentralised-exchanges)
-- [🏦 Defi (Decentralized Finance and Tools)](#defi-decentralized-finance-and-tools)
-- [👛 Wallets](#wallets)
-- [🎁 Verified Airdrops](#verified-airdrops)
-- [🧩 Extensions](#extensions)
-- [📰 News And Media](#news-and-media)
-- [🖼️ NFT](#nft)
-- [🔮 Predictions Market](#predictions-market)
-- [📚 Learning Resources and Roadmap](#learning-resources-and-roadmap)
-- [🔍 Blockchain Explorers](#blockchain-explorers)
-- [🕵️ OSINT(Open Source Intelligence) & Visualization Tools](#osint-open-source-intelligence-visualization-tools)
-- [🚨 Abuse and Scam Detector](#abuse-and-scam-detector)
-- [⚖️ Compliance, Risk & AML](#compliance-risk-aml)
-- [🤖 AI Crypto Assistants](#ai-crypto-assistants)
-- [📈 Specialized Analytic Services](#specialized-analytic-services)
-- [⛏️ Mining Tools](#mining-tools)
-- [🧑‍💻 Developers, APIs & Data Sources](#developers-apis-data-sources)
-- [🏅 Certifications](#certifications)
-- [📖 Dictionary](#-dictionary)
-- [🤝 How to Contribute](#-how_to_contribute)
+[**Browse the full directory →**](https://cryptotoolsdirectory.com/) · Star this repo to bookmark your stack
 
 ---
 
-## 💱 Exchanges
+## Why this list?
 
-Top crypto exchanges to safely buy, sell, and trade digital assets with robust security and reliable platforms.
+The crypto tool landscape is noisy: dozens of exchanges, wallets, explorers, OSINT platforms, AML suites, and “must-use” dApps—and almost no clear way to compare them fast.
 
-<table style="width:100%; border-collapse:collapse; border:none;">
-  <thead>
-    <tr style="background-color:#1A1A1A;">
-      <th style="padding:8px; border:none;">Exchange</th>
-      <th style="padding:8px; border:none;">Score/10</th>
-      <th style="padding:8px; border:none;">Avg. 24h Vol</th>
-      <th style="padding:8px; border:none;">Avg. Liquidity</th>
-      <th style="padding:8px; border:none;">Avg. Weekly Visits</th>
-      <th style="padding:8px; border:none; text-align:center;">Derivative</th>
-      <th style="padding:8px; border:none;">Coin/Pairs</th>
-      <th style="padding:8px; border:none;">KYC</th>
-      <th style="padding:8px; border:none;">Customer Support</th>
-      <th style="padding:8px; border:none;">Platforms</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="background-color:#2C2C2C;">
-      <td style="padding:8px; border:none;"><a href="https://www.binance.com/">Binance</a></td>
-      <td style="padding:8px; border:none; min-width:100px; white-space:nowrap;">9.90 /10</td>
-      <td style="padding:8px; border:none;">$9B</td>
-      <td style="padding:8px; border:none;">964</td>
-      <td style="padding:8px; border:none;">8M</td>
-      <td style="padding:8px; border:none; text-align:center;" title="Yes">✅</td>
-      <td style="padding:8px; border:none;">692/2070</td>
-      <td style="padding:8px; border:none;">Required</td>
-      <td style="padding:8px; border:none;">Help center, tickets, chat</td>
-      <td style="padding:8px; border:none;">Web, iOS, Android</td>
-    </tr>
-    <tr style="background-color:#1A1A1A;">
-      <td style="padding:8px; border:none;"><a href="https://www.coinbase.com/exchange">Coinbase Exchange</a></td>
-      <td style="padding:8px; border:none; min-width:100px; white-space:nowrap;">9.75 /10</td>
-      <td style="padding:8px; border:none;">$1.5B</td>
-      <td style="padding:8px; border:none;">791</td>
-      <td style="padding:8px; border:none;">4M</td>
-      <td style="padding:8px; border:none; text-align:center;" title="Yes">✅</td>
-      <td style="padding:8px; border:none;">392/511</td>
-      <td style="padding:8px; border:none;">Required</td>
-      <td style="padding:8px; border:none;">Help center, tickets, email, phone</td>
-      <td style="padding:8px; border:none;">Web, iOS, Android</td>
-    </tr>
-    <tr style="background-color:#2C2C2C;">
-      <td style="padding:8px; border:none;"><a href="https://upbit.com/">Upbit</a></td>
-      <td style="padding:8px; border:none; min-width:100px; white-space:nowrap;">9.72 /10</td>
-      <td style="padding:8px; border:none;">$1B</td>
-      <td style="padding:8px; border:none;">533</td>
-      <td style="padding:8px; border:none;">1.3M</td>
-      <td style="padding:8px; border:none; text-align:center;" title="No">❌</td>
-      <td style="padding:8px; border:none;">310/711</td>
-      <td style="padding:8px; border:none;">Required</td>
-      <td style="padding:8px; border:none;">Help center,tickets(korean)</td>
-      <td style="padding:8px; border:none;">Web, iOS, Android</td>
-    </tr>
-    <tr style="background-color:#1A1A1A;">
-      <td style="padding:8px; border:none;"><a href="https://www.okx.com/">OKX</a></td>
-      <td style="padding:8px; border:none; min-width:100px; white-space:nowrap;">9.64 /10</td>
-      <td style="padding:8px; border:none;">$1.8B</td>
-      <td style="padding:8px; border:none;">688</td>
-      <td style="padding:8px; border:none;">5.6M</td>
-      <td style="padding:8px; border:none; text-align:center;" title="Yes">✅</td>
-      <td style="padding:8px; border:none;">384/1442</td>
-      <td style="padding:8px; border:none;">Required</td>
-      <td style="padding:8px; border:none;">Help center, tickets, chat</td>
-      <td style="padding:8px; border:none;">Web, iOS, Android</td>
-    </tr>
-    <tr style="background-color:#2C2C2C;">
-      <td style="padding:8px; border:none;"><a href="https://www.mexc.com/">MEXC</a></td>
-      <td style="padding:8px; border:none; min-width:100px; white-space:nowrap;">9.50 /10</td>
-      <td style="padding:8px; border:none;">$1.1B</td>
-      <td style="padding:8px; border:none;">701</td>
-      <td style="padding:8px; border:none;">4M</td>
-      <td style="padding:8px; border:none; text-align:center;" title="Yes">✅</td>
-      <td style="padding:8px; border:none;">1893/3056</td>
-      <td style="padding:8px; border:none;">Required</td>
-      <td style="padding:8px; border:none;">Help center, tickets, chat</td>
-      <td style="padding:8px; border:none;">Web, iOS, Android</td>
-    </tr>
-    <tr style="background-color:#1A1A1A;">
-      <td style="padding:8px; border:none;"><a href="https://www.kucoin.com/">KuCoin</a></td>
-      <td style="padding:8px; border:none; min-width:100px; white-space:nowrap;">9.55 /10</td>
-      <td style="padding:8px; border:none;">$1.8B</td>
-      <td style="padding:8px; border:none;">667</td>
-      <td style="padding:8px; border:none;">4M</td>
-      <td style="padding:8px; border:none; text-align:center;" title="Yes">✅</td>
-      <td style="padding:8px; border:none;">997/1652</td>
-      <td style="padding:8px; border:none;">Required</td>
-      <td style="padding:8px; border:none;">Help center, tickets, chat</td>
-      <td style="padding:8px; border:none;">Web, iOS, Android</td>
-    </tr>
-    <tr style="background-color:#2C2C2C;">
-      <td style="padding:8px; border:none;"><a href="https://www.bitget.com/">Bitget</a></td>
-      <td style="padding:8px; border:none; min-width:100px; white-space:nowrap;">9.60 /10</td>
-      <td style="padding:8px; border:none;">$1B</td>
-      <td style="padding:8px; border:none;">714</td>
-      <td style="padding:8px; border:none;">3.5M</td>
-      <td style="padding:8px; border:none; text-align:center;" title="Yes">✅</td>
-      <td style="padding:8px; border:none;">719/1227</td>
-      <td style="padding:8px; border:none;">Required</td>
-      <td style="padding:8px; border:none;">Help center, tickets, chat</td>
-      <td style="padding:8px; border:none;">Web, iOS, Android</td>
-    </tr>
-    <tr style="background-color:#1A1A1A;">
-      <td style="padding:8px; border:none;"><a href="https://www.gate.io/">Gate</a></td>
-      <td style="padding:8px; border:none; min-width:100px; white-space:nowrap;">9.58 /10</td>
-      <td style="padding:8px; border:none;">$1.2B</td>
-      <td style="padding:8px; border:none;">778</td>
-      <td style="padding:8px; border:none;">3M</td>
-      <td style="padding:8px; border:none; text-align:center;" title="Yes">✅</td>
-      <td style="padding:8px; border:none;">1744/2479</td>
-      <td style="padding:8px; border:none;">Required</td>
-      <td style="padding:8px; border:none;">Help center, tickets</td>
-      <td style="padding:8px; border:none;">Web, iOS, Android</td>
-    </tr>
-    <tr style="background-color:#2C2C2C;">
-      <td style="padding:8px; border:none;"><a href="https://crypto.com/exchange">Crypto.com Exchange</a></td>
-      <td style="padding:8px; border:none; min-width:100px; white-space:nowrap;">9.40 /10</td>
-      <td style="padding:8px; border:none;">$1.7B</td>
-      <td style="padding:8px; border:none;">744</td>
-      <td style="padding:8px; border:none;">500K</td>
-      <td style="padding:8px; border:none; text-align:center;" title="Yes">✅</td>
-      <td style="padding:8px; border:none;">436/876</td>
-      <td style="padding:8px; border:none;">Not Required for base trading</td>
-      <td style="padding:8px; border:none;">Help center, tickets, chat</td>
-      <td style="padding:8px; border:none;">Web, iOS, Android</td>
-    </tr>
-    <tr style="background-color:#1A1A1A;">
-      <td style="padding:8px; border:none;"><a href="https://www.kraken.com/">Kraken</a></td>
-      <td style="padding:8px; border:none; min-width:100px; white-space:nowrap;">9.15 /10</td>
-      <td style="padding:8px; border:none;">$1.1B</td>
-      <td style="padding:8px; border:none;">831</td>
-      <td style="padding:8px; border:none;">1M</td>
-      <td style="padding:8px; border:none; text-align:center;" title="Yes">✅</td>
-      <td style="padding:8px; border:none;">745/1794</td>
-      <td style="padding:8px; border:none;">Required</td>
-      <td style="padding:8px; border:none;">tickets, chat, phone</td>
-      <td style="padding:8px; border:none;">Web, iOS, Android</td>
-    </tr>
-    <tr style="background-color:#2C2C2C;">
-      <td style="padding:8px; border:none;"><a href="https://www.weex.com/">WEEX</a></td>
-      <td style="padding:8px; border:none; min-width:100px; white-space:nowrap;">8.65 /10</td>
-      <td style="padding:8px; border:none;">$1.5B</td>
-      <td style="padding:8px; border:none;">748</td>
-      <td style="padding:8px; border:none;">3M</td>
-      <td style="padding:8px; border:none; text-align:center;" title="Yes">✅</td>
-      <td style="padding:8px; border:none;">1002/1556</td>
-      <td style="padding:8px; border:none;">Not Required for base trading</td>
-      <td style="padding:8px; border:none;">Help center, tickets</td>
-      <td style="padding:8px; border:none;">Web, iOS, Android</td>
-    </tr>
-  </tbody>
-</table>
+This **awesome list of cryptocurrency and blockchain tools** cuts the noise. Every category below is hand-picked with scores, networks, and standout features so you can:
+
+- **Trade & hold safely** — CEX/DEX exchanges, hot/cold wallets, multisig
+- **Use DeFi with context** — liquid staking, lending, yield trading, restaking, MEV
+- **Investigate & stay compliant** — blockchain explorers, OSINT, scam detectors, KYT/AML/VASP tooling
+- **Build & learn faster** — RPC/IPFS APIs, analytics, certifications, and a plain-English dictionary
+
+**Who it’s for:** crypto beginners, active traders, Web3 developers, fraud investigators, threat intel analysts, and compliance/AML professionals.
 
 ---
 
-## 🔁 Dex (Decentralised Exchanges)
+## 📑 Quick jump
 
-Decentralised exchanges (DEX) are blockchain-based platforms that let users securely trade cryptocurrencies directly with each other without intermediaries, offering greater privacy, control, and access to a wide variety of tokens in the evolving DeFi ecosystem.
+| Goal | Go here |
+| ---- | ------- |
+| Buy / sell crypto | [Exchanges](#-best-crypto-exchanges-cex-compared) · [DEX](#-best-decentralized-exchanges-dex) |
+| Earn / DeFi | [DeFi protocols](#-defi-protocols-lending-staking--yield) |
+| Secure funds | [Wallets](#-crypto-wallets-hot-cold--multisig) · [Extensions](#-browser-extensions-for-crypto-security) |
+| Research markets | [News](#-crypto-news--media) · [Market data](#-crypto-market-data-prices--portfolios) · [Analytics](#-on-chain--market-analytics) |
+| Spot scams / AML | [Scam detectors](#-crypto-scam--abuse-detectors) · [Compliance & AML](#-compliance-risk--aml-kyt-tools) · [OSINT](#-blockchain-osint--visualization) |
+| Build | [Explorers](#-blockchain-explorers) · [Developer APIs](#-developer-apis-rpc--data) · [Dictionary](#-crypto-dictionary-kyt-vasp-defi--more) |
 
-<table style="width:100%; border-collapse:collapse; border:none;">
-  <thead>
-    <tr style="background-color:#1A1A1A;">
-      <th style="padding:8px; border:none;">DEX</th>
-      <th style="padding:8px; border:none;">Score/10</th>
-      <th style="padding:8px; border:none;">Avg. 24h Vol</th>
-      <th style="padding:8px; border:none;">Avg. Liquidity</th>
-      <th style="padding:8px; border:none;">No. Markets</th>
-      <th style="padding:8px; border:none; text-align:center;">Derivative</th>
-      <th style="padding:8px; border:none;">Network</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="background-color:#2C2C2C;">
-      <td style="padding:8px; border:none;">Meteora</td>
-      <td style="padding:8px; border:none; min-width:100px; white-space:nowrap;">9.20 /10</td>
-      <td style="padding:8px; border:none;">$7.0B</td>
-      <td style="padding:8px; border:none;">$629M</td>
-      <td style="padding:8px; border:none;">1053</td>
-      <td style="padding:8px; border:none; text-align:center;" title="No">❌</td>
-      <td style="padding:8px; border:none;">Solana</td>
-    </tr>
-    <tr style="background-color:#1A1A1A;">
-      <td style="padding:8px; border:none;">PumpSwap</td>
-      <td style="padding:8px; border:none; min-width:100px; white-space:nowrap;">8.90 /10</td>
-      <td style="padding:8px; border:none;">$4.3B</td>
-      <td style="padding:8px; border:none;">$395M</td>
-      <td style="padding:8px; border:none;">159</td>
-      <td style="padding:8px; border:none; text-align:center;" title="No">❌</td>
-      <td style="padding:8px; border:none;">Solana</td>
-    </tr>
-    <tr style="background-color:#2C2C2C;">
-      <td style="padding:8px; border:none;">PancakeSwap</td>
-      <td style="padding:8px; border:none; min-width:100px; white-space:nowrap;">9.30 /10</td>
-      <td style="padding:8px; border:none;">$2.5B</td>
-      <td style="padding:8px; border:none;">$7.4B</td>
-      <td style="padding:8px; border:none;">3365</td>
-      <td style="padding:8px; border:none; text-align:center;" title="Yes">✅</td>
-      <td style="padding:8px; border:none;">BNB Smart Chain, Base, Ethereum, Solana, Arbitrum, Monad</td>
-    </tr>
-    <tr style="background-color:#1A1A1A;">
-      <td style="padding:8px; border:none;">Uniswap</td>
-      <td style="padding:8px; border:none; min-width:100px; white-space:nowrap;">9.50 /10</td>
-      <td style="padding:8px; border:none;">$1.4B</td>
-      <td style="padding:8px; border:none;">$16.1B</td>
-      <td style="padding:8px; border:none;">6046</td>
-      <td style="padding:8px; border:none; text-align:center;" title="No">❌</td>
-      <td style="padding:8px; border:none;">BNB Smart Chain, Ethereum, Polygon, Arbitrum, Base, Avalanche, Celo, Optimism, Monad, X Layer, Abstract</td>
-    </tr>
-    <tr style="background-color:#2C2C2C;">
-      <td style="padding:8px; border:none;">Raydium</td>
-      <td style="padding:8px; border:none; min-width:100px; white-space:nowrap;">8.80 /10</td>
-      <td style="padding:8px; border:none;">$252M</td>
-      <td style="padding:8px; border:none;">$2.0B</td>
-      <td style="padding:8px; border:none;">1706</td>
-      <td style="padding:8px; border:none; text-align:center;" title="No">❌</td>
-      <td style="padding:8px; border:none;">Solana</td>
-    </tr>
-    <tr style="background-color:#1A1A1A;">
-      <td style="padding:8px; border:none;">Aerodrome</td>
-      <td style="padding:8px; border:none; min-width:100px; white-space:nowrap;">8.70 /10</td>
-      <td style="padding:8px; border:none;">$216M</td>
-      <td style="padding:8px; border:none;">$540M</td>
-      <td style="padding:8px; border:none;">572</td>
-      <td style="padding:8px; border:none; text-align:center;" title="No">❌</td>
-      <td style="padding:8px; border:none;">Base</td>
-    </tr>
-    <tr style="background-color:#2C2C2C;">
-      <td style="padding:8px; border:none;">Orca</td>
-      <td style="padding:8px; border:none; min-width:100px; white-space:nowrap;">8.70 /10</td>
-      <td style="padding:8px; border:none;">$88M</td>
-      <td style="padding:8px; border:none;">$517M</td>
-      <td style="padding:8px; border:none;">873</td>
-      <td style="padding:8px; border:none; text-align:center;" title="No">❌</td>
-      <td style="padding:8px; border:none;">Solana</td>
-    </tr>
-    
-  </tbody>
-</table>
+**Full index**
+
+- [💱 Best Crypto Exchanges (CEX)](#-best-crypto-exchanges-cex-compared)
+- [🔁 Best Decentralized Exchanges (DEX)](#-best-decentralized-exchanges-dex)
+- [🏦 DeFi Protocols](#-defi-protocols-lending-staking--yield)
+- [👛 Crypto Wallets](#-crypto-wallets-hot-cold--multisig)
+- [🧩 Browser Extensions](#-browser-extensions-for-crypto-security)
+- [📰 Crypto News & Media](#-crypto-news--media)
+- [🖼️ NFT Marketplaces](#-nft-marketplaces--tools)
+- [🔮 Prediction Markets](#-crypto-prediction-markets)
+- [📚 Learning Resources](#-crypto-learning-resources--roadmap)
+- [🔍 Blockchain Explorers](#-blockchain-explorers)
+- [🕵️ Blockchain OSINT](#-blockchain-osint--visualization)
+- [🚨 Scam & Abuse Detectors](#-crypto-scam--abuse-detectors)
+- [⚖️ Compliance, Risk & AML](#-compliance-risk--aml-kyt-tools)
+- [🤖 AI Crypto Assistants](#-ai-crypto-assistants)
+- [📈 On-Chain & Market Analytics](#-on-chain--market-analytics)
+- [💹 Market Data & Portfolios](#-crypto-market-data-prices--portfolios)
+- [⛏️ Mining Tools](#-crypto-mining-tools)
+- [🧑‍💻 Developer APIs](#-developer-apis-rpc--data)
+- [🏅 Certifications](#-blockchain--crypto-certifications)
+- [📖 Crypto Dictionary](#-crypto-dictionary-kyt-vasp-defi--more)
 
 ---
 
-## 💱 Defi (Decentralized Finance and Tools)
+## 💱 Best Crypto Exchanges (CEX) Compared
 
-Explore top DeFi platforms and tools that make decentralized finance easy, secure, and accessible for everyone.
+Compare top centralized crypto exchanges by volume, liquidity, KYC, derivatives, and platforms—so you pick a venue that fits how (and where) you trade.
+
+| Exchange                                               | Score/10 | Avg. 24h Vol | Avg. Liquidity | Avg. Weekly Visits | Derivative | Coin/Pairs | KYC                           | Customer Support                   | Platforms         |
+| ------------------------------------------------------ | -------- | ------------ | -------------- | ------------------ | ---------- | ---------- | ----------------------------- | ---------------------------------- | ----------------- |
+| [Binance](https://cryptotoolsdirectory.com/tools/binance-exchange)                    | 9.90 /10 | $9B          | 964            | 8M                 | ✅         | 692/2070   | Required                      | Help center, tickets, chat         | Web, iOS, Android |
+| [Coinbase Exchange](https://cryptotoolsdirectory.com/tools/coinbase-exchange) | 9.75 /10 | $1.5B        | 791            | 4M                 | ✅         | 392/511    | Required                      | Help center, tickets, email, phone | Web, iOS, Android |
+| [Upbit](https://cryptotoolsdirectory.com/tools/upbit-exchange)                            | 9.72 /10 | $1B          | 533            | 1.3M               | ❌         | 310/711    | Required                      | Help center,tickets(korean)        | Web, iOS, Android |
+| [OKX](https://cryptotoolsdirectory.com/tools/mexc-exchange)                            | 9.64 /10 | $1.8B        | 688            | 5.6M               | ✅         | 384/1442   | Required                      | Help center, tickets, chat         | Web, iOS, Android |
+| [MEXC](https://cryptotoolsdirectory.com/tools/mexc-exchange)                          | 9.50 /10 | $1.1B        | 701            | 4M                 | ✅         | 1893/3056  | Required                      | Help center, tickets, chat         | Web, iOS, Android |
+| [KuCoin](https://cryptotoolsdirectory.com/tools/kucoin-exchange)                      | 9.55 /10 | $1.8B        | 667            | 4M                 | ✅         | 997/1652   | Required                      | Help center, tickets, chat         | Web, iOS, Android |
+| [Bitget](https://cryptotoolsdirectory.com/tools/bitget-exchange)                      | 9.60 /10 | $1B          | 714            | 3.5M               | ✅         | 719/1227   | Required                      | Help center, tickets, chat         | Web, iOS, Android |
+| [Gate](https://cryptotoolsdirectory.com/tools/gate-exchange)                           | 9.58 /10 | $1.2B        | 778            | 3M                 | ✅         | 1744/2479  | Required                      | Help center, tickets               | Web, iOS, Android |
+| [Crypto.com Exchange](https://cryptotoolsdirectory.com/tools/crypto-com-exchange)     | 9.40 /10 | $1.7B        | 744            | 500K               | ✅         | 436/876    | Not Required for base trading | Help center, tickets, chat         | Web, iOS, Android |
+| [Kraken](https://cryptotoolsdirectory.com/tools/kraken-exchange)                      | 9.15 /10 | $1.1B        | 831            | 1M                 | ✅         | 745/1794   | Required                      | tickets, chat, phone               | Web, iOS, Android |
 
 
-<table style="width:100%; border-collapse:collapse; border:none;">
-  <thead>
-    <tr style="background-color:#1A1A1A;">
-      <th style="padding:8px; border:none;">Tools</th>
-      <th style="padding:8px; border:none;">Score/10</th>
-      <th style="padding:8px; border:none;">Price</th>
-      <th style="padding:8px; border:none;">Type</th>
-      <th style="padding:8px; border:none;">Network</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="background-color:#2C2C2C;">
-      <td style="padding:8px; border:none;"><a href="https://delphidigital.io/">Delphi Digital</a></td>
-      <td style="padding:8px; border:none; min-width:100px; white-space:nowrap;">9.90 /10</td>
-      <td style="padding:8px; border:none;">~$199</td>
-      <td style="padding:8px; border:none;">Analytics tools</td>
-      <td style="padding:8px; border:none;">Ethereum,Arbitrum,OP Mainnet,Polygon,Solana,Starknet,BNB Chain,Avalanche</td>
-    </tr>
-    <tr style="background-color:#1A1A1A;">
-      <td style="padding:8px; border:none;"><a href="https://app.nansen.ai/">Nansen</a></td>
-      <td style="padding:8px; border:none; min-width:100px; white-space:nowrap;">9.7 /10</td>
-      <td style="padding:8px; border:none;">Almost free</td>
-      <td style="padding:8px; border:none;">Tracker and Trade</td>
-      <td style="padding:8px; border:none;">Bitcoin,Ethereum,Arbitrum,OP Mainnet,Polygon,Solana,Starknet,BNB Chain,Avalanche,Cosmos</td>
-    </tr>
-    <tr style="background-color:#2C2C2C;">
-      <td style="padding:8px; border:none;"><a href="https://www.coingecko.com/en/api">CoinGecko API</a></td>
-      <td style="padding:8px; border:none; min-width:100px; white-space:nowrap;">9.8 /10</td>
-      <td style="padding:8px; border:none;">Almost free</td>
-      <td style="padding:8px; border:none;">Tokens Api</td>
-      <td style="padding:8px; border:none;">Bitcoin,Ethereum</td>
-    </tr>
-     <tr style="background-color:#1A1A1A;">
-      <td style="padding:8px; border:none;"><a href="https://chain.link/">Chainlink</a></td>
-      <td style="padding:8px; border:none; min-width:100px; white-space:nowrap;">9.1 /10</td>
-      <td style="padding:8px; border:none;">Free</td>
-      <td style="padding:8px; border:none;">Smart Contract</td>
-      <td style="padding:8px; border:none;">Ethereum,Arbitrum,OP Mainnet,Polygon,BNB Chain,Avalanche</td>
-    </tr>
-    <tr style="background-color:#2C2C2C;">
-      <td style="padding:8px; border:none;"><a href="https://www.dextools.io/app/">DEXTools</a></td>
-      <td style="padding:8px; border:none; min-width:100px; white-space:nowrap;">9.5 /10</td>
-      <td style="padding:8px; border:none;">Free</td>
-      <td style="padding:8px; border:none;">Analytics tools</td>
-      <td style="padding:8px; border:none;">Ethereum,Arbitrum,OP Mainnet,Polygon,BNB Chain,Avalanche,Solana</td>
-    </tr>
-     <tr style="background-color:#1A1A1A;">
-      <td style="padding:8px; border:none;"><a href="https://www.geckoterminal.com/">GeckoTerminal</a></td>
-      <td style="padding:8px; border:none; min-width:100px; white-space:nowrap;">8.8 /10</td>
-      <td style="padding:8px; border:none;">Free</td>
-      <td style="padding:8px; border:none;">Analytics tools</td>
-      <td style="padding:8px; border:none;">Ethereum,Arbitrum,OP Mainnet,Polygon,BNB Chain,Avalanche,Optimism,Base,Sui,Fantom</td>
-    </tr>
-    <tr style="background-color:#2C2C2C;">
-      <td style="padding:8px; border:none;"><a href="https://www.blocknative.com/">Blocknative</a></td>
-      <td style="padding:8px; border:none; min-width:100px; white-space:nowrap;">9.5 /10</td>
-      <td style="padding:8px; border:none;">Free</td>
-      <td style="padding:8px; border:none;">Gas tools</td>
-      <td style="padding:8px; border:none;">MultiChain</td>
-    </tr>
-    <tr style="background-color:#1A1A1A;">
-      <td style="padding:8px; border:none;"><a href="https://pharos.watch/">Pharos</a></td>
-      <td style="padding:8px; border:none; min-width:100px; white-space:nowrap;">9.2 /10</td>
-      <td style="padding:8px; border:none;">Free</td>
-      <td style="padding:8px; border:none;">Analytics tools</td>
-      <td style="padding:8px; border:none;">MultiChain</td>
-    </tr>
-    </tbody>
-    </table>
-    
+---
 
-## 📖 Dictionary
+## 🔁 Best Decentralized Exchanges (DEX)
 
-This section explains common terms used in this README.
+Trade peer-to-peer from your own wallet—no middleman. These leading DEX platforms on Solana, Ethereum, Base, and other chains rank by volume, liquidity, and network coverage.
+
+| DEX         | Score/10 | Avg. 24h Vol | Avg. Liquidity | No. Markets | Derivative | Network                                                                                                 |
+| ----------- | -------- | ------------ | -------------- | ----------- | ---------- | ------------------------------------------------------------------------------------------------------- |
+| [Meteora](https://cryptotoolsdirectory.com/tools/meteora-dex)     | 9.20 /10 | $7.0B        | $629M          | 1053        | ❌         | Solana                                                                                                  |
+| [PumpSwap](https://cryptotoolsdirectory.com/tools/pumpswap-dex)    | 8.90 /10 | $4.3B        | $395M          | 159         | ❌         | Solana                                                                                                  |
+| [Uniswap](https://cryptotoolsdirectory.com/tools/uniswap-dex)     | 9.50 /10 | $1.4B        | $16.1B         | 6046        | ❌         | BNB Smart Chain, Ethereum, Polygon, Arbitrum, Base, Avalanche, Celo, Optimism, Monad, X Layer, Abstract |
+| [Raydium](https://cryptotoolsdirectory.com/tools/raydium-dex)     | 8.80 /10 | $252M        | $2.0B          | 1706        | ❌         | Solana                                                                                                  |
+| [Aerodrome](https://cryptotoolsdirectory.com/tools/aerodrome-dex)   | 8.70 /10 | $216M        | $540M          | 572         | ❌         | Base                                                                                                    |
+| [Orca](https://cryptotoolsdirectory.com/tools/orca-dex)        | 8.70 /10 | $88M         | $517M          | 873         | ❌         | Solana                                                                                                  |
+
+---
+
+## 🏦 DeFi Protocols: Lending, Staking & Yield
+
+From liquid staking and lending to yield trading and restaking—compare battle-tested DeFi protocols before you put capital on-chain.
+
+| Tools                                      | Score/10 | Price | Type                   | Network                                                           |
+| ------------------------------------------ | -------- | ----- | ---------------------- | ----------------------------------------------------------------- |
+| [Lido](https://cryptotoolsdirectory.com/tools/lido)                   | 9.8 /10  | Free  | Liquid staking         | Ethereum, Arbitrum, Optimism, Base                                |
+| [Aave](https://cryptotoolsdirectory.com/tools/aave)                  | 9.9 /10  | Free  | Lending and borrowing  | Ethereum, Arbitrum, Optimism, Base, Polygon, Avalanche, BNB Chain |
+| [Morpho](https://cryptotoolsdirectory.com/tools/morpho)              | 9.4 /10  | Free  | Lending                | Ethereum, Base                                                    |
+| [Pendle](https://cryptotoolsdirectory.com/tools/pendle)      | 9.3 /10  | Free  | Yield trading          | Ethereum, Arbitrum, BNB Chain                                     |
+| [Hyperliquid](https://cryptotoolsdirectory.com/tools/hyperliquid)    | 9.2 /10  | Free  | Perpetuals DEX         | Hyperliquid L1                                                    |
+| [EigenCloud](https://cryptotoolsdirectory.com/tools/eigencloud)  | 9.1 /10  | Free  | Restaking              | Ethereum                                                          |
+| [Spark](https://cryptotoolsdirectory.com/tools/spark)                 | 8.9 /10  | Free  | Lending                | Ethereum                                                          |
+| [JustLend](https://cryptotoolsdirectory.com/tools/justlend) | 8.7 /10  | Free  | Lending                | TRON                                                              |
+| [Jito](https://cryptotoolsdirectory.com/tools/jito)          | 8.8 /10  | Free  | Liquid staking and MEV | Solana                                                            |
+| [Maple](https://cryptotoolsdirectory.com/tools/maple)        | 8.9 /10  | Free  | Institutional lending  | Ethereum, Solana                                                  |
+
+---
+
+## 👛 Crypto Wallets: Hot, Cold & Multisig
+
+Your keys, your coins—if you pick the right wallet. Compare hot wallets, hardware (cold) wallets, and multisig options for DeFi, NFTs, and long-term storage.
+
+| Wallet                                                                    | Score/10 | Type     | Platforms             | Network                                                                                      | Features                                                              |
+| ------------------------------------------------------------------------- | -------- | -------- | --------------------- | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| [MetaMask](https://cryptotoolsdirectory.com/tools/metamask)               | 9.7 /10  | Hot      | Extension, Mobile     | Ethereum, Bitcoin, Solana, Linea, Base, Arbitrum, Optimism, Polygon, BNB Chain, + other EVMs | Broadest EVM dApp support, swaps, bridges, hardware wallet pairing    |
+| [Phantom](https://cryptotoolsdirectory.com/tools/phantom)                 | 9.6 /10  | Hot      | Extension, Mobile     | Solana, Ethereum, Bitcoin, Base, Polygon, Sui                                                | Solana-first UX, NFT tools, in-wallet swaps                           |
+| [Trust Wallet](https://cryptotoolsdirectory.com/tools/trust-wallet)       | 9.5 /10  | Hot      | Mobile, Extension     | Bitcoin, Ethereum, BNB Chain, Solana, TRON, Cosmos, Polygon, Avalanche, + 100 chains         | Multi-chain staking, swaps, DApp browser, buy/sell crypto             |
+| [Ledger](https://cryptotoolsdirectory.com/tools/ledger)                   | 9.6 /10  | Hardware | Device + Ledger Live  | Bitcoin, Ethereum, Solana, XRP, Cardano, Polkadot, TRON, + 5,500 assets                      | Cold storage with Secure Element, Clear Signing, DeFi via paired apps |
+| [Trezor](https://cryptotoolsdirectory.com/tools/trezor)                   | 9.4 /10  | Hardware | Device + Trezor Suite | Bitcoin, Ethereum, Solana, Cardano, Litecoin, Ripple, + major chains                         | Open-source firmware, offline key storage, Shamir backup options      |
+| [Rabby Wallet](https://cryptotoolsdirectory.com/tools/rabby-wallet)       | 9.5 /10  | Hot      | Extension, Mobile     | Ethereum, Base, Arbitrum, Optimism, Polygon, BNB Chain, Avalanche, + 140 EVMs                | EVM DeFi focus, transaction simulation, risk warnings                 |
+| [Coinbase Wallet](https://cryptotoolsdirectory.com/tools/coinbase-wallet) | 9.2 /10  | Hot      | Mobile, Extension     | Ethereum, Base, Solana, Bitcoin, Polygon, Optimism, Arbitrum, + other EVMs                   | Beginner-friendly self-custody, dApp browser, Coinbase ecosystem link |
+| [Exodus](https://cryptotoolsdirectory.com/tools/exodus)                   | 9.0 /10  | Hot      | Desktop, Mobile       | Bitcoin, Ethereum, Solana, Cardano, XRP, Dogecoin, Polygon, + 50 networks                    | Simple portfolio UI, built-in exchange, staking for select assets     |
+| [OKX Wallet](https://cryptotoolsdirectory.com/tools/okx-wallet)           | 9.1 /10  | Hot      | Extension, Mobile     | Bitcoin, Ethereum, Solana, BNB Chain, OKTC, Polygon, Aptos, Sui, + 100 chains                | Web3 DApp hub, swaps/bridge, OKX exchange ecosystem                   |
+| [Safe{Wallet}](https://cryptotoolsdirectory.com/tools/safe-wallet)        | 9.3 /10  | Multisig | Web, Mobile           | Ethereum, Base, Arbitrum, Optimism, Polygon, Gnosis, Avalanche, BNB Chain, + other EVMs      | Multisig treasury control, team approvals, DAO/org wallets            |
+| [Rainbow](https://cryptotoolsdirectory.com/tools/rainbow)                 | 8.9 /10  | Hot      | Mobile, Extension     | Ethereum, Base, Optimism, Arbitrum, Polygon, Zora, + other EVMs                              | Clean Ethereum UX, NFT gallery, swaps, ENS-friendly design            |
+
+---
+
+## 🧩 Browser Extensions for Crypto Security
+
+Phishing, drainers, and bad approvals happen in the browser. These extensions add real-time warnings, transaction simulation, and DeFi context before you sign.
+
+| Extension                                                                           | Score/10 | Type      | Platforms       | Features                                                                  |
+| ----------------------------------------------------------------------------------- | -------- | --------- | --------------- | ------------------------------------------------------------------------- |
+| [Revoke.cash](https://cryptotoolsdirectory.com/tools/revoke-cash-extension)         | 9.6 /10  | Security  | Chrome, Firefox | Revoke token approvals, tx simulation, phishing and address-poison alerts |
+| [Pocket Universe](https://cryptotoolsdirectory.com/tools/pocket-universe-extension) | 9.5 /10  | Security  | Chrome, Firefox | Pre-sign transaction simulation, clear asset-out warnings, scam detection |
+| [Scam Sniffer](https://cryptotoolsdirectory.com/tools/scam-sniffer-extension)       | 9.4 /10  | Security  | Chrome          | Real-time phishing and drainer detection, malicious domain blocking       |
+| [Web3 Antivirus](https://cryptotoolsdirectory.com/tools/web3-antivirus-extension)   | 9.2 /10  | Security  | Chrome          | Phishing/honeypot detection, address poisoning alerts, risk scanners      |
+| [GoPlus](https://cryptotoolsdirectory.com/tools/goplus-extension)                   | 9.0 /10  | Security  | Chrome          | Phishing site checks, token risk analysis, pre-sign safety alerts         |
+| [DefiLlama](https://cryptotoolsdirectory.com/tools/defillama-extension)             | 9.4 /10  | Analytics | Chrome          | Quick DeFi TVL, yields, and protocol stats from your browser              |
+
+---
+
+## 📰 Crypto News & Media
+
+Stay ahead of Bitcoin, Ethereum, DeFi, and policy moves with the newsrooms and research brands investigators and traders actually follow.
+
+| Outlet                                                                      | Score/10 | Type            | Focus                        | Features                                                                   |
+| --------------------------------------------------------------------------- | -------- | --------------- | ---------------------------- | -------------------------------------------------------------------------- |
+| [CoinDesk](https://cryptotoolsdirectory.com/tools/coindesk)                 | 9.7 /10  | News            | Markets, policy, industry    | Breaking news, Consensus conference, institutional and regulatory coverage |
+| [Cointelegraph](https://cryptotoolsdirectory.com/tools/cointelegraph)       | 9.6 /10  | News            | Global crypto news           | High-volume daily headlines, price data, Cryptopedia explainers            |
+| [The Block](https://cryptotoolsdirectory.com/tools/the-block)               | 9.6 /10  | News + Research | Institutional markets        | Data dashboards, investigative reporting, research-driven market analysis  |
+| [Decrypt](https://cryptotoolsdirectory.com/tools/decrypt)                   | 9.4 /10  | News            | Web3, NFTs, culture          | Beginner-friendly explainers, digests, accessible crypto culture coverage  |
+| [Blockworks](https://cryptotoolsdirectory.com/tools/blockworks)             | 9.5 /10  | News + Research | DeFi, institutions           | Finance-native reporting, research notes, podcasts, conference content     |
+| [The Defiant](https://cryptotoolsdirectory.com/tools/the-defiant)           | 9.3 /10  | News            | DeFi and governance          | DeFi-native journalism, protocol deep dives, newsletters                   |
+| [Bitcoin Magazine](https://cryptotoolsdirectory.com/tools/bitcoin-magazine) | 9.2 /10  | News            | Bitcoin                      | Longest-running Bitcoin publication, education, conference coverage        |
+| [Bankless](https://cryptotoolsdirectory.com/tools/bankless)                 | 9.3 /10  | Media           | Ethereum and DeFi            | Daily newsletter, podcasts, Ethereum ecosystem explainers and guides       |
+| [Messari](https://cryptotoolsdirectory.com/tools/messari)                   | 9.4 /10  | Research        | On-chain and sector research | Protocol reports, governance tracking, market intelligence                 |
+| [DL News](https://cryptotoolsdirectory.com/tools/dl-news)                   | 9.1 /10  | News            | Markets and regulation       | Independent reporting on crypto markets, policy, and industry risk         |
+
+---
+
+## 🖼️ NFT Marketplaces & Tools
+
+Buy, sell, mint, and research NFTs across Ethereum, Solana, Bitcoin Ordinals, and more—marketplaces ranked for liquidity, fees, and creator tools.
+
+| Platform                                                        | Score/10 | Type        | Network                                   | Features                                                                 |
+| --------------------------------------------------------------- | -------- | ----------- | ----------------------------------------- | ------------------------------------------------------------------------ |
+| [OpenSea](https://cryptotoolsdirectory.com/tools/opensea)       | 9.5 /10  | Marketplace | Ethereum, Base, Polygon, Arbitrum, + more | Broadest discovery catalog, multi-chain browsing, beginner-friendly UX   |
+| [Blur](https://cryptotoolsdirectory.com/tools/blur)             | 9.6 /10  | Marketplace | Ethereum                                  | Pro trading tools, deep liquidity, portfolio bids, 0% marketplace fees   |
+| [Magic Eden](https://cryptotoolsdirectory.com/tools/magic-eden) | 9.5 /10  | Marketplace | Solana, Ethereum, Bitcoin, Base, Polygon  | Strong Solana + Ordinals coverage, launchpad, multi-chain portfolio view |
+| [Tensor](https://cryptotoolsdirectory.com/tools/tensor)         | 9.4 /10  | Marketplace | Solana                                    | Solana pro trading, AMM pools, analytics, fast floor sweeps              |
+| [Rarible](https://cryptotoolsdirectory.com/tools/rarible)       | 9.0 /10  | Marketplace | Ethereum, Polygon, Base, + more           | Creator storefronts, minting tools, multi-chain marketplace              |
+| [Zora](https://cryptotoolsdirectory.com/tools/zora)             | 9.1 /10  | Creator     | Zora Network, Ethereum, Base, Optimism    | Easy minting, open editions, creator coins, low-cost publishing          |
+| [Art Blocks](https://cryptotoolsdirectory.com/tools/art-blocks) | 9.0 /10  | Generative  | Ethereum                                  | On-chain generative art mints, curated projects, collector provenance    |
+| [Sudoswap](https://cryptotoolsdirectory.com/tools/sudoswap)     | 8.7 /10  | AMM         | Ethereum                                  | NFT AMM pools for passive liquidity and instant buys/sells               |
+| [Gamma](https://cryptotoolsdirectory.com/tools/sudoswap)        | 8.8 /10  | Marketplace | Bitcoin, Stacks                           | Bitcoin Ordinals and Stacks NFTs, inscriptions, collector tools          |
+
+---
+
+## 🔮 Crypto Prediction Markets
+
+Trade event outcomes—politics, sports, crypto prices, and macro—with on-chain settlement, wallets, and stablecoins.
+
+| Platform                                                                | Score/10 | Type                   | Network                       | Features                                                                       |
+| ----------------------------------------------------------------------- | -------- | ---------------------- | ----------------------------- | ------------------------------------------------------------------------------ |
+| [Polymarket](https://cryptotoolsdirectory.com/tools/polymarket)         | 9.8 /10  | Event market           | Polygon (USDC)                | Deepest crypto-native liquidity, politics/crypto/culture markets, self-custody |
+| [Kalshi](https://cryptotoolsdirectory.com/tools/kalshi)                 | 9.7 /10  | Event market           | USD (CFTC-regulated)          | Regulated US event contracts, fiat rails, deep sports and macro markets        |
+| [Limitless](https://cryptotoolsdirectory.com/tools/limitless)           | 9.2 /10  | Event market           | Base                          | Fast short-duration crypto price markets, wallet-first UX, hybrid CLOB/AMM     |
+| [Azuro](https://cryptotoolsdirectory.com/tools/azuro)                   | 9.1 /10  | Betting Infrastructure | Polygon, Gnosis, Base, + more | On-chain sports prediction infra powering many frontends and liquidity pools   |
+| [Predict.fun](https://cryptotoolsdirectory.com/tools/predict-fun)       | 9.0 /10  | Event market           | BNB Chain                     | Polymarket-style markets, Binance Wallet distribution, on-chain settlement     |
+| [Myriad Markets](https://cryptotoolsdirectory.com/tools/myriad-markets) | 8.9 /10  | Event market           | Sui / Abstract                | Media-native markets, points/rewards style engagement, crypto settlement       |
+
+---
+
+## 📚 Crypto Learning Resources & Roadmap
+
+From first wallet to DeFi fluency—curated academies, docs, and roadmaps for beginners through advanced Web3 learners.
+
+| Resource                                                                        | Score/10 | Type          | Level                 | Features                                                                   |
+| ------------------------------------------------------------------------------- | -------- | ------------- | --------------------- | -------------------------------------------------------------------------- |
+| [Ethereum.org Learn](https://cryptotoolsdirectory.com/tools/ethereum-org-learn) | 9.7 /10  | Docs + Guides | Beginner–Advanced     | Official Ethereum explainers, wallets, security, and protocol fundamentals |
+| [Binance Academy](https://cryptotoolsdirectory.com/tools/binance-academy)       | 9.5 /10  | Academy       | Beginner–Intermediate | Glossary-style articles, market basics, trading and blockchain primers     |
+| [CoinGecko Learn](https://cryptotoolsdirectory.com/tools/coingecko-learn)       | 9.4 /10  | Academy       | Beginner              | Plain-English crypto guides tied to live market and coin context           |
+| [Bankless Academy](https://cryptotoolsdirectory.com/tools/bankless-academy)     | 9.3 /10  | Interactive   | Beginner–Intermediate | On-chain lessons, quests, and Ethereum/DeFi literacy tracks                |
+
+---
+
+## 🔍 Blockchain Explorers
+
+Look up any transaction, address, contract, or token. These are the explorers pros open first on Ethereum, Solana, Bitcoin, BNB Chain, and TRON.
+
+| Explorer                                                              | Score/10 | Chain / Coverage                  | Features                                                                      |
+| --------------------------------------------------------------------- | -------- | --------------------------------- | ----------------------------------------------------------------------------- |
+| [Etherscan](https://cryptotoolsdirectory.com/tools/tronscan)          | 9.8 /10  | Ethereum (+ Etherscan family L2s) | Contract verification, token approvals, gas tracker, deep DeFi/tx analytics   |
+| [Solscan](https://cryptotoolsdirectory.com/tools/solscan)             | 9.6 /10  | Solana                            | Fast SPL/token views, program labels, decoded instructions, NFT lookups       |
+| [Mempool.space](https://cryptotoolsdirectory.com/tools/mempool-space) | 9.5 /10  | Bitcoin                           | Live mempool visualization, fee estimates, open-source self-hostable explorer |
+| [BscScan](https://cryptotoolsdirectory.com/tools/bscscan)             | 9.4 /10  | BNB Smart Chain                   | BEP-20/BEP-721 tracking, verified contracts, DeFi and PancakeSwap activity    |
+| [Tronscan](https://cryptotoolsdirectory.com/tools/tronscan)           | 9.2 /10  | TRON                              | TRC-20/USDT tracking, resource/energy views, contract and account analytics   |
+
+---
+
+## 🕵️ Blockchain OSINT & Visualization
+
+Trace fund flows, label entities, and follow smart money. On-chain OSINT and graph tools built for investigations—not just pretty charts.
+
+| Tool                                                                              | Score/10 | Type              | Best For                        | Features                                                                      |
+| --------------------------------------------------------------------------------- | -------- | ----------------- | ------------------------------- | ----------------------------------------------------------------------------- |
+| [Arkham Intelligence](https://cryptotoolsdirectory.com/tools/arkham-intelligence) | 9.7 /10  | Entity OSINT      | Wallet/entity attribution       | Entity labels, visual fund-flow graphs, multi-chain intel, portfolio tracking |
+| [Nansen](https://cryptotoolsdirectory.com/tools/nansen)                           | 9.6 /10  | Smart-money intel | Trader and fund research        | Wallet labels, smart-money dashboards, token flow and behavior analytics      |
+| [Dune](https://cryptotoolsdirectory.com/tools/dune)                               | 9.6 /10  | Analytics viz     | Custom research dashboards      | SQL queries on chain data, shared dashboards, multi-chain community charts    |
+| [Breadcrumbs](https://cryptotoolsdirectory.com/tools/breadcrumbs)                 | 9.3 /10  | Investigation     | Address tracing and risk checks | Transaction path graphs, clustering, risk scoring, investigator-friendly UI   |
+
+---
+
+## 🚨 Crypto Scam & Abuse Detectors
+
+Check addresses, tokens, and sites before you click or send. Spot phishing, honeypots, rug pulls, and reported abuse early.
+
+| Tool                                                                      | Score/10 | Type           | Best For                       | Features                                                                      |
+| ------------------------------------------------------------------------- | -------- | -------------- | ------------------------------ | ----------------------------------------------------------------------------- |
+| [Chainabuse](https://cryptotoolsdirectory.com/tools/chainabuse)           | 9.6 /10  | Abuse reports  | Scam address lookups           | Community-reported crypto scams, searchable abuse cases, multi-chain coverage |
+| [Scam Sniffer](https://cryptotoolsdirectory.com/tools/scam-sniffer)       | 9.5 /10  | Phishing intel | Drainer and fake-site blocking | Real-time phishing/drainer blocklists, browser warnings, malicious address DB |
+| [Token Sniffer](https://cryptotoolsdirectory.com/tools/token-sniffer)     | 9.4 /10  | Token scanner  | Contract scam scoring          | Automated risk scores, honeypot checks, scam-code similarity matching         |
+| [GoPlus Security](https://cryptotoolsdirectory.com/tools/goplus-security) | 9.4 /10  | Risk API       | Multi-chain token risk flags   | Honeypot/mint/blacklist flags, wide wallet integrations, 30+ chain coverage   |
+
+---
+
+## ⚖️ Compliance, Risk & AML (KYT Tools)
+
+VASP-grade wallet screening, blockchain forensics, sanctions checks, Travel Rule, and KYT/AML monitoring—built for compliance teams and investigators.
+
+| Platform                                                                            | Score/10 | Type            | Best For                           | Features                                                                     |
+| ----------------------------------------------------------------------------------- | -------- | --------------- | ---------------------------------- | ---------------------------------------------------------------------------- |
+| [Chainalysis](https://cryptotoolsdirectory.com/tools/chainalysis)                   | 9.8 /10  | Analytics + AML | Investigations and KYT             | Reactor forensics, KYT screening, deep LE attribution, broad chain coverage  |
+| [Elliptic](https://cryptotoolsdirectory.com/tools/elliptic)                         | 9.7 /10  | Analytics + AML | Cross-chain risk screening         | Holistic multi-network screening, bridge tracing, EU/UK compliance workflows |
+| [TRM Labs](https://cryptotoolsdirectory.com/tools/trm-labs)                         | 9.6 /10  | Analytics + AML | Stablecoin and VASP risk           | Strong Solana/TRON/stablecoin attribution, forensics, sanctions screening    |
+| [Crystal Intelligence](https://cryptotoolsdirectory.com/tools/crystal-intelligence) | 9.3 /10  | Analytics + AML | Multi-chain transaction monitoring | High chain coverage, risk scoring, investigation graphs for VASPs            |
+
+---
+
+## 🤖 AI Crypto Assistants
+
+Research faster with AI copilots for narratives, portfolio Q&A, cited web answers, and crypto-native market intel.
+
+| Platform                                                            | Score/10 | Type               | Best For                  | Features                                                                       |
+| ------------------------------------------------------------------- | -------- | ------------------ | ------------------------- | ------------------------------------------------------------------------------ |
+| [Kaito](https://cryptotoolsdirectory.com/tools/kaito)               | 9.5 /10  | Narrative AI       | Sentiment and mindshare   | Crypto-native search, narrative tracking, social attention and catalyst intel  |
+| [Perplexity](https://cryptotoolsdirectory.com/tools/perplexity)     | 9.4 /10  | Research assistant | Fast cited web research   | Real-time answers with sources, strong for compressing crypto news and docs    |
+| [CoinStats AI](https://cryptotoolsdirectory.com/tools/coinstats-ai) | 9.1 /10  | Portfolio AI       | Holdings Q&A and tracking | AI agent over portfolio data, price context, alerts, and multi-wallet views    |
+| [ChatGPT](https://cryptotoolsdirectory.com/tools/chatgpt)           | 9.3 /10  | General AI         | Strategy and synthesis    | Broad reasoning, research mode, custom GPTs, and multi-domain crypto workflows |
+
+---
+
+## 📈 On-Chain & Market Analytics
+
+Cycle signals, exchange flows, protocol revenue, and live market context—analytics platforms used for serious research, not just price charts.
+
+| Platform                                                                | Score/10 | Type                  | Best For                       | Features                                                                         |
+| ----------------------------------------------------------------------- | -------- | --------------------- | ------------------------------ | -------------------------------------------------------------------------------- |
+| [MoneyMarket365](https://moneymarket365.com/)                           | 9.6 /10  | Live market analytics | Crypto + macro market overview | Real-time crypto/equity/commodity prices, AI-ranked news, and prediction markets |
+| [Glassnode](https://cryptotoolsdirectory.com/tools/glassnode)           | 9.7 /10  | On-chain analytics    | BTC/ETH market cycles          | Realized-cap, holder cohorts, exchange flows, institutional-grade metrics        |
+| [CryptoQuant](https://cryptotoolsdirectory.com/tools/cryptoquant)       | 9.5 /10  | Exchange analytics    | Flow and reserve signals       | Exchange inflows/outflows, miner data, market alerts, trader-friendly dashboards |
+| [Token Terminal](https://cryptotoolsdirectory.com/tools/token-terminal) | 9.4 /10  | Fundamentals          | Protocol revenue and valuation | Fees, revenue, P/S-style metrics, comparable financial views across protocols    |
+
+---
+
+## 💹 Crypto Market Data, Prices & Portfolios
+
+Live prices, rankings, watchlists, and multi-wallet/exchange portfolios—track what you hold and what moves the market.
+
+| Platform                                                              | Score/10 | Type                | Best For                        | Features                                                                       |
+| --------------------------------------------------------------------- | -------- | ------------------- | ------------------------------- | ------------------------------------------------------------------------------ |
+| [CoinMarketCap](https://cryptotoolsdirectory.com/tools/coinmarketcap) | 9.7 /10  | Market data         | Rankings and live prices        | Coin rankings, watchlists, price alerts, market-cap data, news and calendars   |
+| [CoinGecko](https://cryptotoolsdirectory.com/tools/coingecko)         | 9.7 /10  | Market data         | Broad coverage + free portfolio | Deep coin coverage, free portfolio/watchlists, categories, and community data  |
+| [CoinStats](https://cryptotoolsdirectory.com/tools/coinstats)         | 9.5 /10  | Portfolio tracker   | Exchange + wallet dashboards    | Multi-exchange/wallet sync, P&L views, alerts, DeFi and NFT portfolio tracking |
+| [Delta](https://cryptotoolsdirectory.com/tools/delta)                 | 9.3 /10  | Multi-asset tracker | Crypto + traditional assets     | Clean mobile watchlists, stocks/ETFs alongside crypto, exchange API sync       |
+
+---
+
+## ⛏️ Crypto Mining Tools
+
+Mining OS, profitability calculators, and fleet tools for GPU/ASIC operators—compare hashrate, power, and ROI params before you dig.
+
+| Platform                                                        | Score/10 | Type              | Best For                   | Features                                                                                            |
+| --------------------------------------------------------------- | -------- | ----------------- | -------------------------- | --------------------------------------------------------------------------------------------------- |
+| [NiceHash](https://cryptotoolsdirectory.com/tools/nicehash)     | 9.5 /10  | Marketplace miner | Beginners / auto switching | One-click mining, auto algorithm switch, BTC payouts; params: device temp/load/fan, benchmark MH/s  |
+| [Hive OS](https://cryptotoolsdirectory.com/tools/hive-os)       | 9.6 /10  | Mining OS         | Multi-rig fleet management | Remote overclocking, pool failover, watchdog; params: power limit, core/mem OC, fan curve, hashrate |
+| [Minerstat](https://cryptotoolsdirectory.com/tools/minerstat)   | 9.4 /10  | Monitoring suite  | Profit switching + alerts  | Rig dashboards, profit switch, mining OS; params: kWh cost, pool fee %, temp alerts, uptime SLA     |
+| [WhatToMine](https://cryptotoolsdirectory.com/tools/whattomine) | 9.3 /10  | Profit calculator | Hardware ROI modeling      | Coin/algorithm profitability ranks; params: hashrate, power (W), electricity ($/kWh), pool fee %    |
+
+---
+
+## 🧑‍💻 Developer APIs: RPC & Data
+
+Ship dApps faster with production RPC, IPFS, and indexing APIs—Alchemy, QuickNode, Infura, The Graph, and more.
+
+| Platform                                                      | Score/10 | Type                | Best For                    | Features                                                                                                   |
+| ------------------------------------------------------------- | -------- | ------------------- | --------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| [Alchemy](https://cryptotoolsdirectory.com/tools/alchemy)     | 9.7 /10  | Node + enhanced API | Production dApps / NFT APIs | Supernode RPC, NFT/transfer APIs; params: compute units, RPS limits, chain endpoints, webhook filters      |
+| [QuickNode](https://cryptotoolsdirectory.com/tools/quicknode) | 9.6 /10  | Multi-chain RPC     | Broad chain coverage        | Fast global RPC + add-ons marketplace; params: CU/credits, latency regions, archive access, WSS streams    |
+| [Infura](https://cryptotoolsdirectory.com/tools/infura)       | 9.5 /10  | Ethereum RPC        | ETH/L2 + IPFS apps          | Mature Consensys RPC/IPFS stack; params: daily request caps, project keys, network endpoints, IPFS gateway |
+| [The Graph](https://cryptotoolsdirectory.com/tools/the-graph) | 9.4 /10  | Indexing protocol   | Subgraph / GraphQL queries  | Decentralized event indexing; params: subgraph schema, query fees, indexing status, network selection      |
+
+---
+
+## 🏅 Blockchain & Crypto Certifications
+
+Credentials that signal real literacy—blockchain fundamentals, compliance, and Web3 career tracks with clear exam formats.
+
+| Certification                                                                           | Score/10 | Type             | Best For                    | Features                                                                                                    |
+| --------------------------------------------------------------------------------------- | -------- | ---------------- | --------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| [Blockchain Council CBE](https://cryptotoolsdirectory.com/tools/blockchain-council-cbe) | 9.0 /10  | Broad blockchain | Career-oriented credentials | Certified Blockchain Expert and specialty tracks; params: online exam, self-paced study, ~$49–$699 programs |
+
+---
+
+## 📖 Crypto Dictionary (KYT, VASP, DeFi & More)
+
+New to the jargon? Plain-English definitions for terms used across this directory—from AML and KYT to liquid staking, MEV, L2s, and SPL.
 
 ### Avg. Liquidity
 
@@ -395,15 +387,148 @@ A `Decentralized Exchange (DEX)` for spot trading uses smart contracts to allow 
 - **Privacy:** No KYC (Know Your Customer) is typically required.
 - **Examples:** Uniswap (Ethereum), PancakeSwap (BSC), or STON.fi (TON).
 
-### DEX (Derivatives)
+### KYT
 
-This is a decentralized platform for trading futures and perpetual contracts. It combines the complexity of derivatives with the self-custody of a `DEX`.
+`KYT` (Know Your Transaction) is continuous screening of crypto transfers and wallet activity for illicit or high-risk patterns.
 
-- **Complexity:** These use advanced smart contracts to handle leverage and liquidations on-chain.
-- **Mechanism:** Often uses a "Virtual AMM" or a decentralized order book/oracle price feed (like Chainlink).
-- **Self-Custody:** You can trade with high leverage while still keeping your funds in your own wallet.
-- **Examples:** dYdX, GMX, or Hyperliquid.
+- Used by exchanges, VASPs, and compliance teams alongside KYC.
+- Flags links to sanctions, mixers, darknet markets, scams, and other abuse.
+- **Examples:** Chainalysis KYT, Elliptic screening, TRM transaction monitoring.
+
+### VASP
+
+A `VASP` (Virtual Asset Service Provider) is a business that exchanges, transfers, or custodially holds virtual assets for customers.
+
+- Typically includes centralized exchanges, custodians, brokers, and some wallet providers.
+- Subject to AML/CFT rules such as KYC, KYT, and Travel Rule obligations in many jurisdictions.
+- **Examples:** Binance, Coinbase, Kraken (as licensed/regulated entities in applicable markets).
+
+### dApp
+
+A `dApp` (decentralized application) runs on a blockchain via smart contracts instead of a single company server.
+
+- Users usually connect a wallet to interact; logic and state live on-chain.
+- Frontends may still be hosted normally, while settlement and permissions are on-chain.
+- **Examples:** Uniswap, Aave, OpenSea, Polymarket.
+
+### RPC
+
+`RPC` (Remote Procedure Call) is how wallets, dApps, and tools talk to a blockchain node to read data and submit transactions.
+
+- Providers expose HTTP/WebSocket endpoints per network (e.g., Ethereum mainnet, Base, Solana).
+- Apps query balances, blocks, logs, and broadcast signed txs through these endpoints.
+- **Examples:** Alchemy, QuickNode, Infura, public chain RPCs.
+
+### IPFS
+
+`IPFS` (InterPlanetary File System) is a peer-to-peer content-addressed storage network often used for NFT metadata and decentralized file hosting.
+
+- Content is identified by a hash (CID), not a single server URL.
+- Gateways and pinning services make content reliably retrievable.
+- **Examples:** NFT media/metadata, Infura IPFS, Pinata, public IPFS gateways.
+
+### Yield Trading
+
+`Yield trading` lets users buy, sell, or speculate on future yield from staking, lending, or other cash-flow-generating assets—often by splitting principal and yield.
+
+- Separates fixed vs. floating yield exposure without always holding the underlying position.
+- Common in DeFi interest-rate and points/yield markets.
+- **Examples:** Pendle and similar yield-tokenization protocols.
+
+### Liquid Staking
+
+`Liquid staking` lets you stake tokens for network rewards while receiving a liquid receipt token you can trade, lend, or use in DeFi.
+
+- Avoids locking capital solely in native staking.
+- Receipt tokens (LSTs) represent staked principal plus accruing rewards.
+- **Examples:** Lido (stETH), Jito (jitoSOL).
+
+### Restaking
+
+`Restaking` reuses already staked assets (or liquid staking tokens) to secure additional services or networks for extra yield—and extra slashing risk.
+
+- Extends economic security beyond the base chain’s consensus.
+- Higher rewards typically mean more complex risk surface.
+- **Examples:** EigenLayer / EigenCloud and related AVS ecosystems.
+
+### Lending
+
+`Lending` in DeFi is supplying crypto to a protocol so others can borrow it, usually against collateral, in exchange for interest.
+
+- Suppliers earn yield; borrowers pay interest and risk liquidation if collateral falls.
+- Rates are often algorithmic based on utilization.
+- **Examples:** Aave, Morpho, Spark, Maple.
+
+### MEV
+
+`MEV` (Maximal Extractable Value) is profit captured by reordering, inserting, or censoring transactions within a block beyond standard block rewards and gas fees.
+
+- Includes arbitrage, sandwiching, liquidations, and priority auctions.
+- Affects user execution quality and validator/searcher economics.
+- **Examples:** Flashbots, Jito (Solana), sandwich and backrun strategies.
+
+### Multisig
+
+A `Multisig` (multi-signature) wallet requires multiple approved signatures before funds can move or a transaction can execute.
+
+- Common pattern: M-of-N (e.g., 2-of-3 or 3-of-5).
+- Used for treasuries, DAOs, teams, and shared custody to reduce single-key risk.
+- **Examples:** Safe{Wallet} (formerly Gnosis Safe).
+
+### Hot Wallet
+
+A `Hot Wallet` is a wallet whose keys are stored on an internet-connected device (browser extension, mobile, or desktop app).
+
+- Convenient for daily spending, trading, and dApp use.
+- Higher exposure to malware, phishing, and remote compromise than cold storage.
+- **Examples:** MetaMask, Phantom, Trust Wallet, Rabby.
+
+### Cold Wallet
+
+A `Cold Wallet` keeps private keys offline—typically on a hardware device or air-gapped setup—so signing happens without exposing keys to the internet.
+
+- Best for long-term storage and large balances.
+- Often paired with a hot wallet or software app for viewing and transaction prep.
+- **Examples:** Ledger, Trezor, and other hardware / air-gapped setups.
+
+### EVMs
+
+`EVMs` (Ethereum Virtual Machine–compatible chains) run Ethereum-style smart contracts and tooling with little or no code change.
+
+- Share Solidity/Vyper contracts, MetaMask-style wallets, and familiar explorer UX.
+- Differ mainly in fees, speed, security model, and bridging.
+- **Examples:** Ethereum, BNB Smart Chain, Polygon, Arbitrum, Base, Optimism, Avalanche C-Chain.
+
+### L2s
+
+`L2s` (Layer 2s) are scaling networks that process transactions off the base Layer 1 (usually Ethereum) and settle or prove results back to L1 for security and finality.
+
+- Lower fees and higher throughput than L1 for most user activity.
+- Common designs: optimistic rollups and ZK rollups.
+- **Examples:** Arbitrum, Optimism, Base, zkSync, Linea.
+
+### SPL
+
+`SPL` (Solana Program Library) is Solana’s standard token and program toolkit—most commonly referring to SPL tokens (Solana’s fungible/NFT token standards).
+
+- Analogous to ERC-20/ERC-721 on Ethereum, but native to Solana’s account model.
+- Used for mints, transfers, ATAs (associated token accounts), and many DeFi/NFT apps.
+- **Examples:** USDC on Solana, most Solana memecoins and NFT collections.
+
+### AML
+
+`AML` (Anti-Money Laundering) is the set of laws, controls, and processes used to detect and prevent laundering of illicit funds—including in crypto.
+
+- Typically pairs with KYC (identity), KYT (transaction monitoring), sanctions screening, and suspicious-activity reporting.
+- Required for many VASPs and relevant to investigators and compliance teams.
+- **Examples:** wallet screening, Travel Rule compliance, Chainalysis / Elliptic / TRM workflows.
 
 ---
 
-### How to Contribute
+## Keep exploring
+
+- **Search & filter every tool:** [cryptotoolsdirectory.com](https://cryptotoolsdirectory.com/)
+- **Bookmark this list:** star the repo so your stack stays one click away
+- **Suggest a tool:** open an issue or PR with the category, URL, and why it belongs here
+
+Built for people who need the right crypto tool in minutes—not another endless Google tab.
