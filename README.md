@@ -144,6 +144,7 @@ Phishing, drainers, and bad approvals happen in the browser. These extensions ad
 | [Web3 Antivirus](https://cryptotoolsdirectory.com/tools/web3-antivirus-extension)   | 9.2 /10  | Security  | Chrome          | Phishing/honeypot detection, address poisoning alerts, risk scanners      |
 | [GoPlus](https://cryptotoolsdirectory.com/tools/goplus-extension)                   | 9.0 /10  | Security  | Chrome          | Phishing site checks, token risk analysis, pre-sign safety alerts         |
 | [DefiLlama](https://cryptotoolsdirectory.com/tools/defillama-extension)             | 9.4 /10  | Analytics | Chrome          | Quick DeFi TVL, yields, and protocol stats from your browser              |
+| [Kerberus Sentinel3](https://cryptotoolsdirectory.com/tools/kerberus-sentinel3-extension) | 9.3 /10  | Security  | Chrome          | Real-time scam site blocking, transaction translation, address poisoning alerts |
 
 ---
 
