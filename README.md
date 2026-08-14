@@ -58,6 +58,7 @@ This **awesome list of cryptocurrency and blockchain tools** cuts the noise. Eve
 ---
 
 ## 💱 Best Crypto Exchanges (CEX) Compared
+- [n8n-solana-mint-monitor](https://github.com/DeusAcc/n8n-solana-mint-monitor) - Free n8n workflow that watches a Solana mint/program ID and alerts on Telegram when a new transaction appears, no API key needed.
 
 Compare top centralized crypto exchanges by volume, liquidity, KYC, derivatives, and platforms—so you pick a venue that fits how (and where) you trade.
 
