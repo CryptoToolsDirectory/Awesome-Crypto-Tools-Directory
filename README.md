@@ -1,5 +1,11 @@
 # Awesome Crypto Tools List & Directory (2026)
 
+<p align="center">
+  <a href="https://cryptotoolsdirectory.com/">
+    <img src="assets/banner.png" alt="Crypto Tools Directory: compare exchanges, wallets, DeFi, OSINT, and AML tools with scores" width="100%">
+  </a>
+</p>
+
 > Looking for the best crypto tools in one place? You’re in the right repo.
 
 People keep asking the same things: which exchange is safer, which wallet is less likely to get drained, which explorer actually helps you follow a transaction. This **awesome crypto tools list** is a living **cryptocurrency and blockchain tools directory** with side-by-side comparisons, scores, and updates for 2026.
