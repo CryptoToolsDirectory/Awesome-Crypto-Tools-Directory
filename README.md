@@ -46,6 +46,7 @@ Each category below includes scores, networks, and the features that actually ma
 - [🚨 Scam & Abuse Detectors](#-crypto-scam--abuse-detectors)
 - [⚖️ Compliance, Risk & AML](#-compliance-risk--aml-kyt-tools)
 - [🤖 AI Crypto Assistants](#-ai-crypto-assistants)
+- [🤖 Trading Bots](#-trading-bots)
 - [📈 On-Chain & Market Analytics](#-on-chain--market-analytics)
 - [💹 Market Data & Portfolios](#-crypto-market-data-prices--portfolios)
 - [⛏️ Mining Tools](#-crypto-mining-tools)
@@ -275,6 +276,16 @@ Research faster with AI copilots for narratives, portfolio Q&A, cited web answer
 | [Perplexity](https://cryptotoolsdirectory.com/tools/perplexity)     | 9.4 /10  | Research assistant | Fast cited web research   | Real-time answers with sources, strong for compressing crypto news and docs    |
 | [CoinStats AI](https://cryptotoolsdirectory.com/tools/coinstats-ai) | 9.1 /10  | Portfolio AI       | Holdings Q&A and tracking | AI agent over portfolio data, price context, alerts, and multi-wallet views    |
 | [ChatGPT](https://cryptotoolsdirectory.com/tools/chatgpt)           | 9.3 /10  | General AI         | Strategy and synthesis    | Broad reasoning, research mode, custom GPTs, and multi-domain crypto workflows |
+
+---
+
+## 🤖 Trading Bots
+
+Cloud platforms that connect to exchange APIs and run automated strategies (grid, DCA, custom) with backtesting and paper trading.
+
+| Platform | Type | Best For | Features |
+| --- | --- | --- | --- |
+| [Darkbot](https://darkbot.io/) | Cloud bot | Grid, DCA, custom strategies | Visual strategy designer, backtesting, paper trading, 30+ exchanges |
 
 ---
 
