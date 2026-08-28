@@ -128,6 +128,7 @@ Your keys, your coins—if you pick the right wallet. Compare hot wallets, hardw
 | [Safe{Wallet}](https://cryptotoolsdirectory.com/tools/safe-wallet)        | 9.3 /10  | Multisig | Web, Mobile           | Ethereum, Base, Arbitrum, Optimism, Polygon, Gnosis, Avalanche, BNB Chain, + other EVMs      | Multisig treasury control, team approvals, DAO/org wallets            |
 | [Rainbow](https://cryptotoolsdirectory.com/tools/rainbow)                 | 8.9 /10  | Hot      | Mobile, Extension     | Ethereum, Base, Optimism, Arbitrum, Polygon, Zora, + other EVMs                              | Clean Ethereum UX, NFT gallery, swaps, ENS-friendly design            |
 | [Airgate](https://github.com/heyaibi/airgate)                    | 9.2 /10  | Hot      | Android (Device-Owner, Dhizuku) | Offline (no INTERNET) | 14-signal watchdog, auto factory-reset on breach; 100% offline, GPL-3.0 |
+| [S4](https://github.com/heyaibi/s4)                          | 9.2 /10  | Hot      | Android               | Offline (no INTERNET)                                                                         | Offline SLIP-39 backup — splits any BIP-39 seed to 2-16 shares; 100% offline, GPL-3.0 |
 
 ---
 
