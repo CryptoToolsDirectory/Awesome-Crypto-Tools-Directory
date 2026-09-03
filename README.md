@@ -1,4 +1,4 @@
-# Awesome Crypto Tools List & Directory (2026)
+# Awesome Crypto Tools and Products List (2026)
 
 > Looking for the best crypto tools in one place? You’re in the right repo.
 
