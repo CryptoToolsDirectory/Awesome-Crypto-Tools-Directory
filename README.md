@@ -302,6 +302,7 @@ Live prices, rankings, watchlists, and multi-wallet/exchange portfolios—track 
 | [CoinGecko](https://cryptotoolsdirectory.com/tools/coingecko)         | 9.7 /10  | Market data         | Broad coverage + free portfolio | Deep coin coverage, free portfolio/watchlists, categories, and community data  |
 | [CoinStats](https://cryptotoolsdirectory.com/tools/coinstats)         | 9.5 /10  | Portfolio tracker   | Exchange + wallet dashboards    | Multi-exchange/wallet sync, P&L views, alerts, DeFi and NFT portfolio tracking |
 | [Delta](https://cryptotoolsdirectory.com/tools/delta)                 | 9.3 /10  | Multi-asset tracker | Crypto + traditional assets     | Clean mobile watchlists, stocks/ETFs alongside crypto, exchange API sync       |
+| [n8n Solana Price Alert](https://github.com/DeusAcc/n8n-solana-price-alert) | — | Self-hosted workflow | Telegram price alerts | Free, MIT-licensed n8n workflow; alerts on Telegram when a Solana SPL token price crosses a threshold |
 
 ---
 
