@@ -407,3 +407,5 @@ This is a decentralized platform for trading futures and perpetual contracts. It
 ---
 
 ### How to Contribute
+
+- [Deep Blue Alpha](https://deepbluealpha.io) — Free Ethereum whale tracker with 20,000+ monitored wallets, real-time DEX swap classification, and daily intelligence reports.
