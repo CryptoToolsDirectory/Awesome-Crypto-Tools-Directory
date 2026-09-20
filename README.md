@@ -133,6 +133,7 @@ Your keys, your coins—if you pick the right wallet. Compare hot wallets, hardw
 ---
 
 ## 🧩 Browser Extensions for Crypto Security
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — integrates as a recorder/inspector alongside your agent stack.
 
 Phishing, drainers, and bad approvals happen in the browser. These extensions add real-time warnings, transaction simulation, and DeFi context before you sign.
 
