@@ -264,6 +264,7 @@ VASP-grade wallet screening, blockchain forensics, sanctions checks, Travel Rule
 | [Elliptic](https://cryptotoolsdirectory.com/tools/elliptic)                         | 9.7 /10  | Analytics + AML | Cross-chain risk screening         | Holistic multi-network screening, bridge tracing, EU/UK compliance workflows |
 | [TRM Labs](https://cryptotoolsdirectory.com/tools/trm-labs)                         | 9.6 /10  | Analytics + AML | Stablecoin and VASP risk           | Strong Solana/TRON/stablecoin attribution, forensics, sanctions screening    |
 | [Crystal Intelligence](https://cryptotoolsdirectory.com/tools/crystal-intelligence) | 9.3 /10  | Analytics + AML | Multi-chain transaction monitoring | High chain coverage, risk scoring, investigation graphs for VASPs            |
+| [FreezeRadar](https://freezeradar.com)                                               | 8.5 /10  | Wallet screening | Freezeable-asset blacklist checks  | Free USDT/USDC/PAXG/XAUt blacklist & sanctions checker, live freeze activity |
 
 ---
 
