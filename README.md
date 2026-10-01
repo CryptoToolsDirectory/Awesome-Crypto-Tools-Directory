@@ -317,6 +317,7 @@ Live prices, rankings, watchlists, and multi-wallet/exchange portfolios—track 
 | [QuantumPools](https://quantumpools.io)                       | —        | LP bookkeeping     | EVM + Solana                  | Multi-chain concentrated-liquidity bookkeeping and Cover Value (fees vs IL vs original deposit) |
 | [n8n Solana Price Alert](https://github.com/DeusAcc/n8n-solana-price-alert) | — | Self-hosted workflow | Telegram price alerts | Free, MIT-licensed n8n workflow; alerts on Telegram when a Solana SPL token price crosses a threshold |
 | [ChartCrypto](https://chartcrypto.app/) | — | Live chart dashboard | 760+ free real-time coin charts | Live charts for 760+ coins, currency converters, price predictions, technical indicators, backtesting, market scanner — free, no signup |
+| [TrueHold](https://www.truehold.xyz) | — | Portfolio tracker | Wallets, exchanges and perps in one view | Wallets by public address, exchanges by read-only API key, DeFi and perp positions, P&L, AI agent for portfolio questions |
 
 ---
 
