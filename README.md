@@ -289,6 +289,7 @@ Cloud platforms that connect to exchange APIs and run automated strategies (grid
 | Platform | Type | Best For | Features |
 | --- | --- | --- | --- |
 | [Darkbot](https://darkbot.io/) | Cloud bot | Grid, DCA, custom strategies | Visual strategy designer, backtesting, paper trading, 30+ exchanges |
+| [TV-Hub](https://www.tv-hub.org/) | Cloud bot | TradingView alert automation | Webhook execution of TradingView alerts, DCA and grid bots, Telegram signal execution, 7 exchanges, free demo accounts |
 
 ---
 
