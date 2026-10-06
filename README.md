@@ -316,6 +316,7 @@ Cycle signals, exchange flows, protocol revenue, and live market context—analy
 | [MoneyMarket365](https://moneymarket365.com/)                           | 9.6 /10  | Live market analytics | Crypto + macro market overview | Real-time crypto/equity/commodity prices, AI-ranked news, and prediction markets |
 | [Glassnode](https://cryptotoolsdirectory.com/tools/glassnode)           | 9.7 /10  | On-chain analytics    | BTC/ETH market cycles          | Realized-cap, holder cohorts, exchange flows, institutional-grade metrics        |
 | [CryptoQuant](https://cryptotoolsdirectory.com/tools/cryptoquant)       | 9.5 /10  | Exchange analytics    | Flow and reserve signals       | Exchange inflows/outflows, miner data, market alerts, trader-friendly dashboards |
+| [FerimanEdge]([FERIMANEDGE_URL]) | — | Market regime analytics | BTC/ETH/BNB regime monitoring | Rule-based BULL/SIDEWAYS/BEAR market regimes, Discord Edge Updates, public methodology and track record, embeddable widgets |
 | [Token Terminal](https://cryptotoolsdirectory.com/tools/token-terminal) | 9.4 /10  | Fundamentals          | Protocol revenue and valuation | Fees, revenue, P/S-style metrics, comparable financial views across protocols    |
 
 
