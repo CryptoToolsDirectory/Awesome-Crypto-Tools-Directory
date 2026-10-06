@@ -32,6 +32,7 @@ Each category below includes scores, networks, and the features that actually ma
 
 **Full index**
 
+- [⭐ Featured Tools & Products](#-featured-tools--products)
 - [💱 Best Crypto Exchanges (CEX)](#-best-crypto-exchanges-cex-compared)
 - [🔁 Best Decentralized Exchanges (DEX)](#-best-decentralized-exchanges-dex)
 - [🏦 DeFi Protocols](#-defi-protocols-lending-staking--yield)
@@ -53,6 +54,20 @@ Each category below includes scores, networks, and the features that actually ma
 - [🧑‍💻 Developer APIs](#-developer-apis-rpc--data)
 - [🏅 Certifications](#-blockchain--crypto-certifications)
 - [📖 Crypto Dictionary](#-crypto-dictionary-kyt-vasp-defi--more)
+
+---
+
+## ⭐ Featured Tools & Products
+
+This is a rotating spotlight, not a permanent ranking. A tool or product can appear here only after it is submitted on [Crypto Tools Directory](https://cryptotoolsdirectory.com/) and verified there. Verified listings stay featured for 30 days, then they rotate out. Unsubmitted or unverified products are not eligible.
+
+Want a slot? [Submit your tool](https://cryptotoolsdirectory.com/) on the directory first.
+
+| Tool | Score/10 | Type | Best for | Features |
+| ---- | -------- | ---- | -------- | -------- |
+| [MoneyMarket365](https://moneymarket365.com/) | 9.6 /10 | Live market analytics | Crypto + macro overview | Real-time crypto, equity, and commodity prices, AI-ranked news, and prediction markets |
+| [Polymarket](https://cryptotoolsdirectory.com/tools/polymarket) | 9.8 /10 | Event market | On-chain prediction markets | Deep crypto-native liquidity, politics/crypto/culture markets, self-custody |
+| [CoinDesk](https://cryptotoolsdirectory.com/tools/coindesk) | 9.7 /10 | News | Markets, policy, industry | Breaking news, Consensus conference, institutional and regulatory coverage |
 
 ---
 
@@ -550,9 +565,15 @@ A `Cold Wallet` keeps private keys offline, usually on a hardware device or air-
 
 - **Search and filter every tool:** [cryptotoolsdirectory.com](https://cryptotoolsdirectory.com/)
 - **Bookmark this list:** star the repo so your stack is easy to find again
-- **Suggest a tool:** open an issue or PR with the category, URL, and why it fits
+- **Add a tool:** follow [CONTRIBUTING.md](CONTRIBUTING.md). Edit this README, open a pull request, and submit the same tool on [cryptotoolsdirectory.com](https://cryptotoolsdirectory.com/)
 
 If you want the right crypto tool fast, start here instead of another long Google rabbit hole.
+
+---
+
+## Star this list
+
+Found a tool you will actually use? Star the repo so it stays on your GitHub list. That is all a star does. You do not need one to open a pull request, and it does not buy a listing, a score, or a spot in the featured table.
 
 ---
 
