@@ -210,6 +210,7 @@ From first wallet to DeFi fluency—curated academies, docs, and roadmaps for be
 | [Binance Academy](https://cryptotoolsdirectory.com/tools/binance-academy)       | 9.5 /10  | Academy       | Beginner–Intermediate | Glossary-style articles, market basics, trading and blockchain primers     |
 | [CoinGecko Learn](https://cryptotoolsdirectory.com/tools/coingecko-learn)       | 9.4 /10  | Academy       | Beginner              | Plain-English crypto guides tied to live market and coin context           |
 | [Bankless Academy](https://cryptotoolsdirectory.com/tools/bankless-academy)     | 9.3 /10  | Interactive   | Beginner–Intermediate | On-chain lessons, quests, and Ethereum/DeFi literacy tracks                |
+| [vibgg funding calculator](https://vibgg.com/en/funding-calculator/) | — | Funding calculator + guides | Intermediate | Input-based perpetual funding-cost arithmetic by position size, direction and holding time; current-rate and historical-average scenarios are estimates, not forecasts |
 
 ---
 
@@ -320,6 +321,7 @@ Live prices, rankings, watchlists, and multi-wallet/exchange portfolios—track 
 | [n8n Solana Price Alert](https://github.com/DeusAcc/n8n-solana-price-alert) | — | Self-hosted workflow | Telegram price alerts | Free, MIT-licensed n8n workflow; alerts on Telegram when a Solana SPL token price crosses a threshold |
 | [ChartCrypto](https://chartcrypto.app/) | — | Live chart dashboard | 760+ free real-time coin charts | Live charts for 760+ coins, currency converters, price predictions, technical indicators, backtesting, market scanner — free, no signup |
 | [TrueHold](https://www.truehold.xyz) | — | Portfolio tracker | Wallets, exchanges and perps in one view | Wallets by public address, exchanges by read-only API key, DeFi and perp positions, P&L, AI agent for portfolio questions |
+| [CoinAbe](https://coinabe.com/) | — | Regional USDT cost comparison | Brazil, Mexico and Taiwan | Net-USDT estimates after price differences, trading and withdrawal costs; [withdrawal-fee CSV/JSON documentation](https://coinabe.com/pt-br/dados-abertos) explains timestamps and limitations; verify final account quotes and networks |
 
 ---
 
