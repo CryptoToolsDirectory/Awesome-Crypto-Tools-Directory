@@ -321,6 +321,7 @@ Cycle signals, exchange flows, protocol revenue, and live market context—analy
 | [Token Terminal](https://cryptotoolsdirectory.com/tools/token-terminal) | 9.4 /10  | Fundamentals          | Protocol revenue and valuation | Fees, revenue, P/S-style metrics, comparable financial views across protocols    |
 | [dexgc](https://dexgc.com/en/) | — | Perpetual funding research | Funding-rate comparison and holding costs | Cross-venue rates, realised settlements, holding-cost and liquidation calculators; estimates depend on the stated assumptions |
 | [coinglee](https://coinglee.com/en/) | — | USDT P2P price research | Local fiat-market premiums | P2P advertisement-price observations with benchmark and methodology explanations; quoted advertisements are not guaranteed fills |
+| [TronOrb](https://tronorb.com/) | — | TRON on-chain analytics | USDT-on-TRON fees and TRON ecosystem data | Live USDT transfer cost, dApp TVL and exchange-reserve rankings, USDT blacklist and address checks; free, no sign-up |
 
 
 ---
