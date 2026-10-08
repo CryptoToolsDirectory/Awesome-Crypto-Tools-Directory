@@ -362,6 +362,8 @@ Mining OS, profitability calculators, and fleet tools for GPU/ASIC operators—c
 
 Ship dApps faster with production RPC, IPFS, and indexing APIs—Alchemy, QuickNode, Infura, The Graph, and more.
 
+Need to compare infrastructure options before choosing an endpoint? [Chain.Love](https://www.chain.love/) is an open-source directory for discovering Web3 APIs, RPC providers, and other infrastructure services across networks.
+
 | Platform                                                      | Score/10 | Type                | Best For                    | Features                                                                                                   |
 | ------------------------------------------------------------- | -------- | ------------------- | --------------------------- | ---------------------------------------------------------------------------------------------------------- |
 | [Alchemy](https://cryptotoolsdirectory.com/tools/alchemy)     | 9.7 /10  | Node + enhanced API | Production dApps / NFT APIs | Supernode RPC, NFT/transfer APIs; params: compute units, RPS limits, chain endpoints, webhook filters      |
