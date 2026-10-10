@@ -267,6 +267,7 @@ Check addresses, tokens, and sites before you click or send. Spot phishing, hone
 | [GoPlus Security](https://cryptotoolsdirectory.com/tools/goplus-security) | 9.4 /10  | Risk API       | Multi-chain token risk flags   | Honeypot/mint/blacklist flags, wide wallet integrations, 30+ chain coverage   |
 | [Guava Wallet Intelligence](https://www.guavaintel.com)          | 8.5 /10  | Token + wallet scanner | Honeypot, rug pull, wallet risk | 30+ security checks, wallet risk scoring, 31-chain coverage, free tier, MCP server |
 | [CoinUFO](https://coinufo.com/) | — | Solana token scanner | Initial token-risk research | Contract-address lookup, liquidity and holder signals; automated flags are not a security audit or a guarantee of saleability |
+| [Squelch Check](https://squelchalerts.com/check) | — | Telegram bot | Checking a token inside a Telegram group | Honeypot, sell restrictions, mint/freeze/blacklist powers, upgradable transfer fee, LP lock, holder concentration (GoPlus + DexScreener data); Ethereum, Base, Solana; free, no signup |
 
 
 ---
