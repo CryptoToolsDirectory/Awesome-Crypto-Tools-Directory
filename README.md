@@ -571,6 +571,7 @@ A `Cold Wallet` keeps private keys offline, usually on a hardware device or air-
 ## Keep exploring
 
 - **Search and filter every tool:** [cryptotoolsdirectory.com](https://cryptotoolsdirectory.com/)
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 - **Bookmark this list:** star the repo so your stack is easy to find again
 - **Add a tool:** follow [CONTRIBUTING.md](CONTRIBUTING.md). Edit this README, open a pull request, and submit the same tool on [cryptotoolsdirectory.com](https://cryptotoolsdirectory.com/)
 
