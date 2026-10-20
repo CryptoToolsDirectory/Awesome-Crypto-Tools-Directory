@@ -349,6 +349,8 @@ Live prices, rankings, watchlists, and multi-wallet/exchange portfolios—track 
 | [loweef Crypto Futures Fee Index](https://loweef.io/en/crypto-futures-fee-index/) | 9.4 | Exchange-cost data | Comparing futures taker and maker fees | VIP 0 USDT-margined perpetual taker/maker fees for 8 exchanges with per-row check dates and official fee-page links, effective taker fee after a fee rebate, free CSV; check the exchange for current fees |
 
 
+| [Free Wallet/Exchange Transfer Pair Checker](https://livastic-vm3-primary-tmp-260920.github.io/defi-payment-proof-qa/guides/crypto-transfer-csv-pair-auditor.html) | — | Local CSV preflight | Reviewing unmatched wallet/exchange transfers | Free browser-only two-CSV candidates, timestamp/hash/amount/fee and duplicate checks; no upload, tax treatment or proof of ownership |
+
 ---
 
 ## ⛏️ Crypto Mining Tools
