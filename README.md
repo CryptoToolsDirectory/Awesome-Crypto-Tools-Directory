@@ -65,6 +65,7 @@ Want a slot? [Submit your tool](https://cryptotoolsdirectory.com/) on the direct
 
 | Tool | Score/10 | Type | Best for | Features |
 | ---- | -------- | ---- | -------- | -------- |
+| [loweef Crypto Futures Fee Index](https://loweef.io/en/crypto-futures-fee-index/) | 9.4 | Exchange-cost data | Comparing futures taker and maker fees | VIP 0 USDT-margined perpetual taker/maker fees for 8 exchanges with per-row check dates and official fee-page links, effective taker fee after a fee rebate, free CSV; check the exchange for current fees |
 | [MoneyMarket365](https://moneymarket365.com/) | 9.6 /10 | Live market analytics | Crypto + macro overview | Real-time crypto, equity, and commodity prices, AI-ranked news, and prediction markets |
 | [Polymarket](https://cryptotoolsdirectory.com/tools/polymarket) | 9.8 /10 | Event market | On-chain prediction markets | Deep crypto-native liquidity, politics/crypto/culture markets, self-custody |
 | [CoinDesk](https://cryptotoolsdirectory.com/tools/coindesk) | 9.7 /10 | News | Markets, policy, industry | Breaking news, Consensus conference, institutional and regulatory coverage |
@@ -306,6 +307,7 @@ Cloud platforms that connect to exchange APIs and run automated strategies (grid
 | Platform | Type | Best For | Features |
 | --- | --- | --- | --- |
 | [Darkbot](https://darkbot.io/) | Cloud bot | Grid, DCA, custom strategies | Visual strategy designer, backtesting, paper trading, 30+ exchanges |
+| [TV-Hub](https://www.tv-hub.org/) | Cloud bot | TradingView alert automation | Webhook execution of TradingView alerts, DCA and grid bots, Telegram signal execution, 7 exchanges, free demo accounts |
 
 ---
 
@@ -321,6 +323,7 @@ Cycle signals, exchange flows, protocol revenue, and live market context—analy
 | [Token Terminal](https://cryptotoolsdirectory.com/tools/token-terminal) | 9.4 /10  | Fundamentals          | Protocol revenue and valuation | Fees, revenue, P/S-style metrics, comparable financial views across protocols    |
 | [dexgc](https://dexgc.com/en/) | — | Perpetual funding research | Funding-rate comparison and holding costs | Cross-venue rates, realised settlements, holding-cost and liquidation calculators; estimates depend on the stated assumptions |
 | [coinglee](https://coinglee.com/en/) | — | USDT P2P price research | Local fiat-market premiums | P2P advertisement-price observations with benchmark and methodology explanations; quoted advertisements are not guaranteed fills |
+| [TronOrb](https://tronorb.com/) | — | TRON on-chain analytics | USDT-on-TRON fees and TRON ecosystem data | Live USDT transfer cost, dApp TVL and exchange-reserve rankings, USDT blacklist and address checks; free, no sign-up |
 
 
 ---
@@ -341,7 +344,9 @@ Live prices, rankings, watchlists, and multi-wallet/exchange portfolios—track 
 | [TrueHold](https://www.truehold.xyz) | — | Portfolio tracker | Wallets, exchanges and perps in one view | Wallets by public address, exchanges by read-only API key, DeFi and perp positions, P&L, AI agent for portfolio questions |
 | [CEXQA](https://cexqa.com/) | — | Exchange reference data | Coin listings and transfer-network checks | Chinese-language coin and pair lookup, withdrawal-fee and network comparisons; confirm current availability on the exchange before transferring |
 | [CoinGree](https://coingree.com/) | — | Exchange-cost research | Trading-fee comparisons | Public fee calculator, exchange comparisons, funding data and events; account tier and current exchange rules determine actual charges |
+| [loweef Crypto Futures Fee Index](https://loweef.io/en/crypto-futures-fee-index/) | 9.4 | Exchange-cost data | Comparing futures taker and maker fees | VIP 0 USDT-margined perpetual taker/maker fees for 8 exchanges with per-row check dates and official fee-page links, effective taker fee after a fee rebate, free CSV; check the exchange for current fees |
 | [DefiLPKit](https://defilpkit.com/) | — | LP risk calculator | Checking a concentrated-liquidity pool before depositing | Fee APR, estimated net yield after impermanent loss and gas, range tester and IL calculator for Uniswap v3, PancakeSwap v3, Aerodrome and Raydium CLMM pools; free, no wallet needed; estimates depend on stated assumptions |
+
 
 
 ---
