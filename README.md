@@ -269,6 +269,7 @@ Check addresses, tokens, and sites before you click or send. Spot phishing, hone
 | [Guava Wallet Intelligence](https://www.guavaintel.com)          | 8.5 /10  | Token + wallet scanner | Honeypot, rug pull, wallet risk | 30+ security checks, wallet risk scoring, 31-chain coverage, free tier, MCP server |
 | [CoinUFO](https://coinufo.com/) | — | Solana token scanner | Initial token-risk research | Contract-address lookup, liquidity and holder signals; automated flags are not a security audit or a guarantee of saleability |
 | [Squelch Check](https://squelchalerts.com/check) | — | Telegram bot | Checking a token inside a Telegram group | Honeypot, sell restrictions, mint/freeze/blacklist powers, upgradable transfer fee, LP lock, holder concentration (GoPlus + DexScreener data); Ethereum, Base, Solana; free, no signup |
+| [CryptoStrapon](https://cryptostrapon.com/scam-detector) | — | AI scam detector | Checking a message, link or wallet address before you act | Free, no login; Ethereum and TRON on-chain checks; English and Spanish; 54 documented scam case write-ups, quiz and glossary |
 
 
 ---
