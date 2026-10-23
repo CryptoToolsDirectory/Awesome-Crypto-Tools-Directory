@@ -350,6 +350,8 @@ Live prices, rankings, watchlists, and multi-wallet/exchange portfolios—track 
 | [DeSweep](https://desweep.app/) | — | Multi-wallet balance checker | Checking hundreds of wallets at once | Balances in 35 networks (EVM, Solana, Bitcoin) and NFTs in 28 by public address, up to 1000 wallets per scan, CSV export; optional collection to one wallet with keys kept in the browser tab; first 5 wallets free, no signup |
 
 
+| [Free Wallet/Exchange Transfer Pair Checker](https://livastic-vm3-primary-tmp-260920.github.io/defi-payment-proof-qa/guides/crypto-transfer-csv-pair-auditor.html) | — | Local CSV preflight | Reviewing unmatched wallet/exchange transfers | Free browser-only two-CSV candidates, timestamp/hash/amount/fee and duplicate checks; no upload, tax treatment or proof of ownership |
+
 ---
 
 ## ⛏️ Crypto Mining Tools
