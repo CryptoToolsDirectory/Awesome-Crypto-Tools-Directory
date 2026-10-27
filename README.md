@@ -270,6 +270,7 @@ Check addresses, tokens, and sites before you click or send. Spot phishing, hone
 | [CoinUFO](https://coinufo.com/) | — | Solana token scanner | Initial token-risk research | Contract-address lookup, liquidity and holder signals; automated flags are not a security audit or a guarantee of saleability |
 | [Squelch Check](https://squelchalerts.com/check) | — | Telegram bot | Checking a token inside a Telegram group | Honeypot, sell restrictions, mint/freeze/blacklist powers, upgradable transfer fee, LP lock, holder concentration (GoPlus + DexScreener data); Ethereum, Base, Solana; free, no signup |
 | [Quantum Audit](https://quantumaudit.app/token/) | — | Token scanner + public records | Checking a new token before buying | Deterministic 0–100 risk score with every factor shown: mint, freeze and owner powers, taxes, LP lock or burn, holder concentration; a dated public record per token; Ethereum, BNB Chain, Base, Arbitrum, Polygon, Solana |
+| [ChainSift](https://chainsift.org/) | — | Token scanner | Honeypot and contract-rights check before buying | Buy and sell simulated against the token's real pool; buy/sell tax; mint, pause and blacklist rights; upgradeable proxies; liquidity locks; holder concentration; every check is a public page with its date; Ethereum, BNB Chain, Base, Arbitrum, Polygon, Robinhood Chain; free, no signup |
 
 
 ---
