@@ -301,6 +301,7 @@ Research faster with AI copilots for narratives, portfolio Q&A, cited web answer
 | [ChatGPT](https://cryptotoolsdirectory.com/tools/chatgpt)           | 9.3 /10  | General AI         | Strategy and synthesis    | Broad reasoning, research mode, custom GPTs, and multi-domain crypto workflows |
 | [TraderSpy](https://traderspy.app/)                                 | —        | Market research AI | Futures and smart money   | AI futures alerts, whale positions, position check, MCP for Claude and ChatGPT |
 | [Trade Copilot](https://tradecopilot.app/)                         | —        | Trading journal AI | Reviewing your own trades | Read-only Binance, Bybit, OKX, Coinbase and Hyperliquid; auto journal; each habit by its dollar cost; pre-trade check against your rules |
+| [Coinpred](https://coinpred.com/) |  | Direction analysis AI | Short-term BTC/ETH direction | AI short-term BTC/ETH direction analysis with probability and confidence, Kronos candle forecasts, and openly tracked signal results. Free daily credits. |
 
 ---
 
