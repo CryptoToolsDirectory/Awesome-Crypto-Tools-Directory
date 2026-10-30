@@ -214,6 +214,7 @@ Trade event outcomes—politics, sports, crypto prices, and macro—with on-chai
 | [Azuro](https://cryptotoolsdirectory.com/tools/azuro)                   | 9.1 /10  | Betting Infrastructure | Polygon, Gnosis, Base, + more | On-chain sports prediction infra powering many frontends and liquidity pools   |
 | [Predict.fun](https://cryptotoolsdirectory.com/tools/predict-fun)       | 9.0 /10  | Event market           | BNB Chain                     | Polymarket-style markets, Binance Wallet distribution, on-chain settlement     |
 | [Myriad Markets](https://cryptotoolsdirectory.com/tools/myriad-markets) | 8.9 /10  | Event market           | Sui / Abstract                | Media-native markets, points/rewards style engagement, crypto settlement       |
+| [Lucyd](https://lucyd.trade/)                                          |          | Event market           | Ethereum Sepolia (testnet)    | Bitcoin Up/Down markets 5m to daily on an onchain order book, free API and MCP |
 
 ---
 
