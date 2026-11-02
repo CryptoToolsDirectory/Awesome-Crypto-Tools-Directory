@@ -331,6 +331,7 @@ Cycle signals, exchange flows, protocol revenue, and live market context—analy
 | [coinglee](https://coinglee.com/en/) | — | USDT P2P price research | Local fiat-market premiums | P2P advertisement-price observations with benchmark and methodology explanations; quoted advertisements are not guaranteed fills |
 | [TronOrb](https://tronorb.com/) | — | TRON on-chain analytics | USDT-on-TRON fees and TRON ecosystem data | Live USDT transfer cost, dApp TVL and exchange-reserve rankings, USDT blacklist and address checks; free, no sign-up |
 | [Squelch](https://squelchalerts.com/) | — | Market alert bot (Telegram) | Exchange-flow, funding and liquidation alerts | Whale moves and exchange flows, funding-rate extremes, open-interest spikes, liquidation clusters and new listings, each category switchable; 24-hour free trial, then $19/mo |
+| [Perly Charts](https://charts.perly.io/) | — | On-chain & market charts | Bitcoin cycle and on-chain indicators | 76 charts: bitcoin price models, MVRV, SOPR, HODL waves, hash ribbons, ETF flows, altcoins, stablecoins and macro; data source named on every chart; 18 languages; free, no sign-in |
 
 
 ---
