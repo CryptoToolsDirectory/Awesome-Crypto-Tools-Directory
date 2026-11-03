@@ -32,6 +32,7 @@ Each category below includes scores, networks, and the features that actually ma
 
 **Full index**
 
+- [⭐ Featured Tools & Products](#-featured-tools--products)
 - [💱 Best Crypto Exchanges (CEX)](#-best-crypto-exchanges-cex-compared)
 - [🔁 Best Decentralized Exchanges (DEX)](#-best-decentralized-exchanges-dex)
 - [🏦 DeFi Protocols](#-defi-protocols-lending-staking--yield)
@@ -53,6 +54,22 @@ Each category below includes scores, networks, and the features that actually ma
 - [🧑‍💻 Developer APIs](#-developer-apis-rpc--data)
 - [🏅 Certifications](#-blockchain--crypto-certifications)
 - [📖 Crypto Dictionary](#-crypto-dictionary-kyt-vasp-defi--more)
+
+---
+
+## ⭐ Featured Tools & Products
+
+This is a rotating spotlight, not a permanent ranking. A tool or product can appear here only after it is submitted on [Crypto Tools Directory](https://cryptotoolsdirectory.com/) and verified there. Verified listings stay featured for 30 days, then they rotate out. Unsubmitted or unverified products are not eligible.
+
+Want a slot? [Submit your tool](https://cryptotoolsdirectory.com/) on the directory first.
+
+| Tool | Score/10 | Type | Best for | Features |
+| ---- | -------- | ---- | -------- | -------- |
+| [ARKOSCOPE](https://cryptotoolsdirectory.com/tools/arkoscope) | 9.3 /10 | News | The crypto information network, without the noise | Follow the Feed and project cards in EN, FR, ES, DE and NL |
+| [loweef Crypto Futures Fee Index](https://loweef.io/en/crypto-futures-fee-index/) | 9.4 | Exchange-cost data | Comparing futures taker and maker fees | VIP 0 USDT-margined perpetual taker/maker fees for 8 exchanges with per-row check dates and official fee-page links, effective taker fee after a fee rebate, free CSV; check the exchange for current fees |
+| [MoneyMarket365](https://moneymarket365.com/) | 9.6 /10 | Live market analytics | Crypto + macro overview | Real-time crypto, equity, and commodity prices, AI-ranked news, and prediction markets |
+| [Polymarket](https://cryptotoolsdirectory.com/tools/polymarket) | 9.8 /10 | Event market | On-chain prediction markets | Deep crypto-native liquidity, politics/crypto/culture markets, self-custody |
+| [CoinDesk](https://cryptotoolsdirectory.com/tools/coindesk) | 9.7 /10 | News | Markets, policy, industry | Breaking news, Consensus conference, institutional and regulatory coverage |
 
 ---
 
@@ -252,6 +269,12 @@ Check addresses, tokens, and sites before you click or send. Spot phishing, hone
 | [Token Sniffer](https://cryptotoolsdirectory.com/tools/token-sniffer)     | 9.4 /10  | Token scanner  | Contract scam scoring          | Automated risk scores, honeypot checks, scam-code similarity matching         |
 | [GoPlus Security](https://cryptotoolsdirectory.com/tools/goplus-security) | 9.4 /10  | Risk API       | Multi-chain token risk flags   | Honeypot/mint/blacklist flags, wide wallet integrations, 30+ chain coverage   |
 | [Guava Wallet Intelligence](https://www.guavaintel.com)          | 8.5 /10  | Token + wallet scanner | Honeypot, rug pull, wallet risk | 30+ security checks, wallet risk scoring, 31-chain coverage, free tier, MCP server |
+| [CoinUFO](https://coinufo.com/) | — | Solana token scanner | Initial token-risk research | Contract-address lookup, liquidity and holder signals; automated flags are not a security audit or a guarantee of saleability |
+| [Squelch Check](https://squelchalerts.com/check) | — | Telegram bot | Checking a token inside a Telegram group | Honeypot, sell restrictions, mint/freeze/blacklist powers, upgradable transfer fee, LP lock, holder concentration (GoPlus + DexScreener data); Ethereum, Base, Solana; free, no signup |
+| [CryptoStrapon](https://cryptostrapon.com/scam-detector) | — | AI scam detector | Checking a message, link or wallet address before you act | Free, no login; Ethereum and TRON on-chain checks; English and Spanish; 54 documented scam case write-ups, quiz and glossary |
+| [Quantum Audit](https://quantumaudit.app/token/) | — | Token scanner + public records | Checking a new token before buying | Deterministic 0–100 risk score with every factor shown: mint, freeze and owner powers, taxes, LP lock or burn, holder concentration; a dated public record per token; Ethereum, BNB Chain, Base, Arbitrum, Polygon, Solana |
+
+
 
 ---
 
@@ -280,6 +303,7 @@ Research faster with AI copilots for narratives, portfolio Q&A, cited web answer
 | [CoinStats AI](https://cryptotoolsdirectory.com/tools/coinstats-ai) | 9.1 /10  | Portfolio AI       | Holdings Q&A and tracking | AI agent over portfolio data, price context, alerts, and multi-wallet views    |
 | [ChatGPT](https://cryptotoolsdirectory.com/tools/chatgpt)           | 9.3 /10  | General AI         | Strategy and synthesis    | Broad reasoning, research mode, custom GPTs, and multi-domain crypto workflows |
 | [TraderSpy](https://traderspy.app/)                                 | —        | Market research AI | Futures and smart money   | AI futures alerts, whale positions, position check, MCP for Claude and ChatGPT |
+| [Trade Copilot](https://tradecopilot.app/)                         | —        | Trading journal AI | Reviewing your own trades | Read-only Binance, Bybit, OKX, Coinbase and Hyperliquid; auto journal; each habit by its dollar cost; pre-trade check against your rules |
 
 ---
 
@@ -290,6 +314,7 @@ Cloud platforms that connect to exchange APIs and run automated strategies (grid
 | Platform | Type | Best For | Features |
 | --- | --- | --- | --- |
 | [Darkbot](https://darkbot.io/) | Cloud bot | Grid, DCA, custom strategies | Visual strategy designer, backtesting, paper trading, 30+ exchanges |
+| [TV-Hub](https://www.tv-hub.org/) | Cloud bot | TradingView alert automation | Webhook execution of TradingView alerts, DCA and grid bots, Telegram signal execution, 7 exchanges, free demo accounts |
 
 ---
 
@@ -303,6 +328,10 @@ Cycle signals, exchange flows, protocol revenue, and live market context—analy
 | [Glassnode](https://cryptotoolsdirectory.com/tools/glassnode)           | 9.7 /10  | On-chain analytics    | BTC/ETH market cycles          | Realized-cap, holder cohorts, exchange flows, institutional-grade metrics        |
 | [CryptoQuant](https://cryptotoolsdirectory.com/tools/cryptoquant)       | 9.5 /10  | Exchange analytics    | Flow and reserve signals       | Exchange inflows/outflows, miner data, market alerts, trader-friendly dashboards |
 | [Token Terminal](https://cryptotoolsdirectory.com/tools/token-terminal) | 9.4 /10  | Fundamentals          | Protocol revenue and valuation | Fees, revenue, P/S-style metrics, comparable financial views across protocols    |
+| [dexgc](https://dexgc.com/en/) | — | Perpetual funding research | Funding-rate comparison and holding costs | Cross-venue rates, realised settlements, holding-cost and liquidation calculators; estimates depend on the stated assumptions |
+| [coinglee](https://coinglee.com/en/) | — | USDT P2P price research | Local fiat-market premiums | P2P advertisement-price observations with benchmark and methodology explanations; quoted advertisements are not guaranteed fills |
+| [TronOrb](https://tronorb.com/) | — | TRON on-chain analytics | USDT-on-TRON fees and TRON ecosystem data | Live USDT transfer cost, dApp TVL and exchange-reserve rankings, USDT blacklist and address checks; free, no sign-up |
+| [Squelch](https://squelchalerts.com/) | — | Market alert bot (Telegram) | Exchange-flow, funding and liquidation alerts | Whale moves and exchange flows, funding-rate extremes, open-interest spikes, liquidation clusters and new listings, each category switchable; 24-hour free trial, then $19/mo |
 
 
 ---
@@ -322,6 +351,11 @@ Live prices, rankings, watchlists, and multi-wallet/exchange portfolios—track 
 | [ChartCrypto](https://chartcrypto.app/) | — | Live chart dashboard | 760+ free real-time coin charts | Live charts for 760+ coins, currency converters, price predictions, technical indicators, backtesting, market scanner — free, no signup |
 | [TrueHold](https://www.truehold.xyz) | — | Portfolio tracker | Wallets, exchanges and perps in one view | Wallets by public address, exchanges by read-only API key, DeFi and perp positions, P&L, AI agent for portfolio questions |
 | [CoinAbe](https://coinabe.com/) | — | Regional USDT cost comparison | Brazil, Mexico and Taiwan | Net-USDT estimates after price differences, trading and withdrawal costs; [withdrawal-fee CSV/JSON documentation](https://coinabe.com/pt-br/dados-abertos) explains timestamps and limitations; verify final account quotes and networks |
+| [CEXQA](https://cexqa.com/) | — | Exchange reference data | Coin listings and transfer-network checks | Chinese-language coin and pair lookup, withdrawal-fee and network comparisons; confirm current availability on the exchange before transferring |
+| [CoinGree](https://coingree.com/) | — | Exchange-cost research | Trading-fee comparisons | Public fee calculator, exchange comparisons, funding data and events; account tier and current exchange rules determine actual charges |
+| [loweef Crypto Futures Fee Index](https://loweef.io/en/crypto-futures-fee-index/) | 9.4 | Exchange-cost data | Comparing futures taker and maker fees | VIP 0 USDT-margined perpetual taker/maker fees for 8 exchanges with per-row check dates and official fee-page links, effective taker fee after a fee rebate, free CSV; check the exchange for current fees |
+| [DefiLPKit](https://defilpkit.com/) | — | LP risk calculator | Checking a concentrated-liquidity pool before depositing | Fee APR, estimated net yield after impermanent loss and gas, range tester and IL calculator for Uniswap v3, PancakeSwap v3, Aerodrome and Raydium CLMM pools; free, no wallet needed; estimates depend on stated assumptions |
+| [DeSweep](https://desweep.app/) | — | Multi-wallet balance checker | Checking hundreds of wallets at once | Balances in 35 networks (EVM, Solana, Bitcoin) and NFTs in 28 by public address, up to 1000 wallets per scan, CSV export; optional collection to one wallet with keys kept in the browser tab; first 5 wallets free, no signup |
 
 ---
 
@@ -552,9 +586,15 @@ A `Cold Wallet` keeps private keys offline, usually on a hardware device or air-
 
 - **Search and filter every tool:** [cryptotoolsdirectory.com](https://cryptotoolsdirectory.com/)
 - **Bookmark this list:** star the repo so your stack is easy to find again
-- **Suggest a tool:** open an issue or PR with the category, URL, and why it fits
+- **Add a tool:** follow [CONTRIBUTING.md](CONTRIBUTING.md). Edit this README, open a pull request, and submit the same tool on [cryptotoolsdirectory.com](https://cryptotoolsdirectory.com/)
 
 If you want the right crypto tool fast, start here instead of another long Google rabbit hole.
+
+---
+
+## Star this list
+
+Found a tool you will actually use? Star the repo so it stays on your GitHub list. That is all a star does. You do not need one to open a pull request, and it does not buy a listing, a score, or a spot in the featured table.
 
 ---
 
