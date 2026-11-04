@@ -272,6 +272,7 @@ Check addresses, tokens, and sites before you click or send. Spot phishing, hone
 | [Squelch Check](https://squelchalerts.com/check) | — | Telegram bot | Checking a token inside a Telegram group | Honeypot, sell restrictions, mint/freeze/blacklist powers, upgradable transfer fee, LP lock, holder concentration (GoPlus + DexScreener data); Ethereum, Base, Solana; free, no signup |
 | [CryptoStrapon](https://cryptostrapon.com/scam-detector) | — | AI scam detector | Checking a message, link or wallet address before you act | Free, no login; Ethereum and TRON on-chain checks; English and Spanish; 54 documented scam case write-ups, quiz and glossary |
 | [Quantum Audit](https://quantumaudit.app/token/) | — | Token scanner + public records | Checking a new token before buying | Deterministic 0–100 risk score with every factor shown: mint, freeze and owner powers, taxes, LP lock or burn, holder concentration; a dated public record per token; Ethereum, BNB Chain, Base, Arbitrum, Polygon, Solana |
+| [Rugsight](https://rugsight.rugsight.workers.dev/) | — | Solana token scanner + Telegram bot + API | Checking a new Solana token before buying | 0–100 rug-risk score and grade with every flag explained: mint and freeze authority, Token-2022 extensions (transfer fee, permanent delegate, hooks), holder concentration, liquidity, token age; free web check and Telegram bot (@rugsight_bot), no signup; open source (MIT); MCP server and pay-per-call API for AI agents |
 
 
 
