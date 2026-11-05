@@ -255,6 +255,7 @@ Trace fund flows, label entities, and follow smart money. On-chain OSINT and gra
 | [Nansen](https://cryptotoolsdirectory.com/tools/nansen)                           | 9.6 /10  | Smart-money intel | Trader and fund research        | Wallet labels, smart-money dashboards, token flow and behavior analytics      |
 | [Dune](https://cryptotoolsdirectory.com/tools/dune)                               | 9.6 /10  | Analytics viz     | Custom research dashboards      | SQL queries on chain data, shared dashboards, multi-chain community charts    |
 | [Breadcrumbs](https://cryptotoolsdirectory.com/tools/breadcrumbs)                 | 9.3 /10  | Investigation     | Address tracing and risk checks | Transaction path graphs, clustering, risk scoring, investigator-friendly UI   |
+| [Iris](https://iriscan.app/) | — | Investigation | Tracing stolen funds | Fund-flow boards, tracing through mixers, bridges and instant swaps, Solana, EVM, Bitcoin and Tron, shareable case reports, MCP server |
 
 ---
 
