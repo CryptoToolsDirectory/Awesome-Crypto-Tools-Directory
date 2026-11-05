@@ -273,6 +273,7 @@ Check addresses, tokens, and sites before you click or send. Spot phishing, hone
 | [Squelch Check](https://squelchalerts.com/check) | — | Telegram bot | Checking a token inside a Telegram group | Honeypot, sell restrictions, mint/freeze/blacklist powers, upgradable transfer fee, LP lock, holder concentration (GoPlus + DexScreener data); Ethereum, Base, Solana; free, no signup |
 | [CryptoStrapon](https://cryptostrapon.com/scam-detector) | — | AI scam detector | Checking a message, link or wallet address before you act | Free, no login; Ethereum and TRON on-chain checks; English and Spanish; 54 documented scam case write-ups, quiz and glossary |
 | [Quantum Audit](https://quantumaudit.app/token/) | — | Token scanner + public records | Checking a new token before buying | Deterministic 0–100 risk score with every factor shown: mint, freeze and owner powers, taxes, LP lock or burn, holder concentration; a dated public record per token; Ethereum, BNB Chain, Base, Arbitrum, Polygon, Solana |
+| [ChainSift](https://chainsift.org/) | — | Token scanner | Honeypot and contract-rights check before buying | Buy and sell simulated against the token's real pool; buy/sell tax; mint, pause and blacklist rights; upgradeable proxies; liquidity locks; holder concentration; every check is a public page with its date; Ethereum, BNB Chain, Base, Arbitrum, Polygon, Robinhood Chain; free, no signup |
 
 
 
