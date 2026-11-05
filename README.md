@@ -227,6 +227,7 @@ From first wallet to DeFi fluency—curated academies, docs, and roadmaps for be
 | [Binance Academy](https://cryptotoolsdirectory.com/tools/binance-academy)       | 9.5 /10  | Academy       | Beginner–Intermediate | Glossary-style articles, market basics, trading and blockchain primers     |
 | [CoinGecko Learn](https://cryptotoolsdirectory.com/tools/coingecko-learn)       | 9.4 /10  | Academy       | Beginner              | Plain-English crypto guides tied to live market and coin context           |
 | [Bankless Academy](https://cryptotoolsdirectory.com/tools/bankless-academy)     | 9.3 /10  | Interactive   | Beginner–Intermediate | On-chain lessons, quests, and Ethereum/DeFi literacy tracks                |
+| [vibgg funding calculator](https://vibgg.com/en/funding-calculator/) | — | Funding calculator + guides | Intermediate | Input-based perpetual funding-cost arithmetic by position size, direction and holding time; current-rate and historical-average scenarios are estimates, not forecasts |
 
 ---
 
@@ -349,12 +350,12 @@ Live prices, rankings, watchlists, and multi-wallet/exchange portfolios—track 
 | [n8n Solana Price Alert](https://github.com/DeusAcc/n8n-solana-price-alert) | — | Self-hosted workflow | Telegram price alerts | Free, MIT-licensed n8n workflow; alerts on Telegram when a Solana SPL token price crosses a threshold |
 | [ChartCrypto](https://chartcrypto.app/) | — | Live chart dashboard | 760+ free real-time coin charts | Live charts for 760+ coins, currency converters, price predictions, technical indicators, backtesting, market scanner — free, no signup |
 | [TrueHold](https://www.truehold.xyz) | — | Portfolio tracker | Wallets, exchanges and perps in one view | Wallets by public address, exchanges by read-only API key, DeFi and perp positions, P&L, AI agent for portfolio questions |
+| [CoinAbe](https://coinabe.com/) | — | Regional USDT cost comparison | Brazil, Mexico and Taiwan | Net-USDT estimates after price differences, trading and withdrawal costs; [withdrawal-fee CSV/JSON documentation](https://coinabe.com/pt-br/dados-abertos) explains timestamps and limitations; verify final account quotes and networks |
 | [CEXQA](https://cexqa.com/) | — | Exchange reference data | Coin listings and transfer-network checks | Chinese-language coin and pair lookup, withdrawal-fee and network comparisons; confirm current availability on the exchange before transferring |
 | [CoinGree](https://coingree.com/) | — | Exchange-cost research | Trading-fee comparisons | Public fee calculator, exchange comparisons, funding data and events; account tier and current exchange rules determine actual charges |
 | [loweef Crypto Futures Fee Index](https://loweef.io/en/crypto-futures-fee-index/) | 9.4 | Exchange-cost data | Comparing futures taker and maker fees | VIP 0 USDT-margined perpetual taker/maker fees for 8 exchanges with per-row check dates and official fee-page links, effective taker fee after a fee rebate, free CSV; check the exchange for current fees |
 | [DefiLPKit](https://defilpkit.com/) | — | LP risk calculator | Checking a concentrated-liquidity pool before depositing | Fee APR, estimated net yield after impermanent loss and gas, range tester and IL calculator for Uniswap v3, PancakeSwap v3, Aerodrome and Raydium CLMM pools; free, no wallet needed; estimates depend on stated assumptions |
 | [DeSweep](https://desweep.app/) | — | Multi-wallet balance checker | Checking hundreds of wallets at once | Balances in 35 networks (EVM, Solana, Bitcoin) and NFTs in 28 by public address, up to 1000 wallets per scan, CSV export; optional collection to one wallet with keys kept in the browser tab; first 5 wallets free, no signup |
-
 
 ---
 
