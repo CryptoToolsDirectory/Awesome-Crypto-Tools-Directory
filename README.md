@@ -357,6 +357,8 @@ Live prices, rankings, watchlists, and multi-wallet/exchange portfolios—track 
 | [DefiLPKit](https://defilpkit.com/) | — | LP risk calculator | Checking a concentrated-liquidity pool before depositing | Fee APR, estimated net yield after impermanent loss and gas, range tester and IL calculator for Uniswap v3, PancakeSwap v3, Aerodrome and Raydium CLMM pools; free, no wallet needed; estimates depend on stated assumptions |
 | [DeSweep](https://desweep.app/) | — | Multi-wallet balance checker | Checking hundreds of wallets at once | Balances in 35 networks (EVM, Solana, Bitcoin) and NFTs in 28 by public address, up to 1000 wallets per scan, CSV export; optional collection to one wallet with keys kept in the browser tab; first 5 wallets free, no signup |
 
+| [Free Wallet/Exchange Transfer Pair Checker](https://livastic-vm3-primary-tmp-260920.github.io/defi-payment-proof-qa/guides/crypto-transfer-csv-pair-auditor.html) | — | Local CSV preflight | Reviewing unmatched wallet/exchange transfers | Free browser-only two-CSV candidates, timestamp/hash/amount/fee and duplicate checks; no upload, tax treatment or proof of ownership |
+
 ---
 
 ## ⛏️ Crypto Mining Tools
