@@ -242,6 +242,7 @@ Look up any transaction, address, contract, or token. These are the explorers pr
 | [Mempool.space](https://cryptotoolsdirectory.com/tools/mempool-space) | 9.5 /10  | Bitcoin                           | Live mempool visualization, fee estimates, open-source self-hostable explorer |
 | [BscScan](https://cryptotoolsdirectory.com/tools/bscscan)             | 9.4 /10  | BNB Smart Chain                   | BEP-20/BEP-721 tracking, verified contracts, DeFi and PancakeSwap activity    |
 | [Tronscan](https://cryptotoolsdirectory.com/tools/tronscan)           | 9.2 /10  | TRON                              | TRC-20/USDT tracking, resource/energy views, contract and account analytics   |
+| [XRPL.to](https://xrpl.to/) |  | XRP Ledger | Token prices and charts, holders, DEX and AMM trades, NFTs, accounts, scam flags, free API |
 
 ---
 
