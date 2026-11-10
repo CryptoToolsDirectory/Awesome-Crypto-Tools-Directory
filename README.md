@@ -227,6 +227,7 @@ From first wallet to DeFi fluency—curated academies, docs, and roadmaps for be
 | [Binance Academy](https://cryptotoolsdirectory.com/tools/binance-academy)       | 9.5 /10  | Academy       | Beginner–Intermediate | Glossary-style articles, market basics, trading and blockchain primers     |
 | [CoinGecko Learn](https://cryptotoolsdirectory.com/tools/coingecko-learn)       | 9.4 /10  | Academy       | Beginner              | Plain-English crypto guides tied to live market and coin context           |
 | [Bankless Academy](https://cryptotoolsdirectory.com/tools/bankless-academy)     | 9.3 /10  | Interactive   | Beginner–Intermediate | On-chain lessons, quests, and Ethereum/DeFi literacy tracks                |
+| [vibgg funding calculator](https://vibgg.com/en/funding-calculator/) | — | Funding calculator + guides | Intermediate | Input-based perpetual funding-cost arithmetic by position size, direction and holding time; current-rate and historical-average scenarios are estimates, not forecasts |
 
 ---
 
@@ -254,6 +255,7 @@ Trace fund flows, label entities, and follow smart money. On-chain OSINT and gra
 | [Nansen](https://cryptotoolsdirectory.com/tools/nansen)                           | 9.6 /10  | Smart-money intel | Trader and fund research        | Wallet labels, smart-money dashboards, token flow and behavior analytics      |
 | [Dune](https://cryptotoolsdirectory.com/tools/dune)                               | 9.6 /10  | Analytics viz     | Custom research dashboards      | SQL queries on chain data, shared dashboards, multi-chain community charts    |
 | [Breadcrumbs](https://cryptotoolsdirectory.com/tools/breadcrumbs)                 | 9.3 /10  | Investigation     | Address tracing and risk checks | Transaction path graphs, clustering, risk scoring, investigator-friendly UI   |
+| [Iris](https://iriscan.app/) | — | Investigation | Tracing stolen funds | Fund-flow boards, tracing through mixers, bridges and instant swaps, Solana, EVM, Bitcoin and Tron, shareable case reports, MCP server |
 
 ---
 
@@ -272,6 +274,7 @@ Check addresses, tokens, and sites before you click or send. Spot phishing, hone
 | [Squelch Check](https://squelchalerts.com/check) | — | Telegram bot | Checking a token inside a Telegram group | Honeypot, sell restrictions, mint/freeze/blacklist powers, upgradable transfer fee, LP lock, holder concentration (GoPlus + DexScreener data); Ethereum, Base, Solana; free, no signup |
 | [CryptoStrapon](https://cryptostrapon.com/scam-detector) | — | AI scam detector | Checking a message, link or wallet address before you act | Free, no login; Ethereum and TRON on-chain checks; English and Spanish; 54 documented scam case write-ups, quiz and glossary |
 | [Quantum Audit](https://quantumaudit.app/token/) | — | Token scanner + public records | Checking a new token before buying | Deterministic 0–100 risk score with every factor shown: mint, freeze and owner powers, taxes, LP lock or burn, holder concentration; a dated public record per token; Ethereum, BNB Chain, Base, Arbitrum, Polygon, Solana |
+| [ChainSift](https://chainsift.org/) | — | Token scanner | Honeypot and contract-rights check before buying | Buy and sell simulated against the token's real pool; buy/sell tax; mint, pause and blacklist rights; upgradeable proxies; liquidity locks; holder concentration; every check is a public page with its date; Ethereum, BNB Chain, Base, Arbitrum, Polygon, Robinhood Chain; free, no signup |
 
 
 
@@ -331,6 +334,7 @@ Cycle signals, exchange flows, protocol revenue, and live market context—analy
 | [coinglee](https://coinglee.com/en/) | — | USDT P2P price research | Local fiat-market premiums | P2P advertisement-price observations with benchmark and methodology explanations; quoted advertisements are not guaranteed fills |
 | [TronOrb](https://tronorb.com/) | — | TRON on-chain analytics | USDT-on-TRON fees and TRON ecosystem data | Live USDT transfer cost, dApp TVL and exchange-reserve rankings, USDT blacklist and address checks; free, no sign-up |
 | [Squelch](https://squelchalerts.com/) | — | Market alert bot (Telegram) | Exchange-flow, funding and liquidation alerts | Whale moves and exchange flows, funding-rate extremes, open-interest spikes, liquidation clusters and new listings, each category switchable; 24-hour free trial, then $19/mo |
+| [Fear & Greed Index Bot](https://top.gg/bot/1125794469829169253) | — | Market sentiment bot (Discord) | Keeping a Discord server aware of crypto market mood | Crypto Fear & Greed Index in the bot's nickname and status, refreshed every 10 minutes; slash commands for today's value, 2–30 day history and a side-by-side check of data sources; free |
 | [StrictScore](https://strictscore.com/) |  | Crypto fundamentals ratings | Comparing the fundamentals of a coin | AI-rated 0-100 scores for 970 coins on six pillars, with published sector weights, cited sources and a 1-10 risk score; top 20 free with an account (top 10 without), paid plans Lite, Pro, Enterprise |
 
 
@@ -348,13 +352,15 @@ Live prices, rankings, watchlists, and multi-wallet/exchange portfolios—track 
 | [Delta](https://cryptotoolsdirectory.com/tools/delta)                 | 9.3 /10  | Multi-asset tracker | Crypto + traditional assets     | Clean mobile watchlists, stocks/ETFs alongside crypto, exchange API sync       |
 | [QuantumPools](https://quantumpools.io)                       | —        | LP bookkeeping     | EVM + Solana                  | Multi-chain concentrated-liquidity bookkeeping and Cover Value (fees vs IL vs original deposit) |
 | [n8n Solana Price Alert](https://github.com/DeusAcc/n8n-solana-price-alert) | — | Self-hosted workflow | Telegram price alerts | Free, MIT-licensed n8n workflow; alerts on Telegram when a Solana SPL token price crosses a threshold |
+| [n8n Crypto Price-Level Alerts](https://github.com/cryptoflows/n8n-crypto-price-alerts) | — | Self-hosted workflow | Telegram/Discord price alerts without repeat spam | Free, MIT-licensed n8n workflow; fires once when a level is crossed and re-arms when price crosses back; Binance public data, no API keys |
 | [ChartCrypto](https://chartcrypto.app/) | — | Live chart dashboard | 760+ free real-time coin charts | Live charts for 760+ coins, currency converters, price predictions, technical indicators, backtesting, market scanner — free, no signup |
 | [TrueHold](https://www.truehold.xyz) | — | Portfolio tracker | Wallets, exchanges and perps in one view | Wallets by public address, exchanges by read-only API key, DeFi and perp positions, P&L, AI agent for portfolio questions |
+| [CoinAbe](https://coinabe.com/) | — | Regional USDT cost comparison | Brazil, Mexico and Taiwan | Net-USDT estimates after price differences, trading and withdrawal costs; [withdrawal-fee CSV/JSON documentation](https://coinabe.com/pt-br/dados-abertos) explains timestamps and limitations; verify final account quotes and networks |
 | [CEXQA](https://cexqa.com/) | — | Exchange reference data | Coin listings and transfer-network checks | Chinese-language coin and pair lookup, withdrawal-fee and network comparisons; confirm current availability on the exchange before transferring |
 | [CoinGree](https://coingree.com/) | — | Exchange-cost research | Trading-fee comparisons | Public fee calculator, exchange comparisons, funding data and events; account tier and current exchange rules determine actual charges |
 | [loweef Crypto Futures Fee Index](https://loweef.io/en/crypto-futures-fee-index/) | 9.4 | Exchange-cost data | Comparing futures taker and maker fees | VIP 0 USDT-margined perpetual taker/maker fees for 8 exchanges with per-row check dates and official fee-page links, effective taker fee after a fee rebate, free CSV; check the exchange for current fees |
+| [DefiLPKit](https://defilpkit.com/) | — | LP risk calculator | Checking a concentrated-liquidity pool before depositing | Fee APR, estimated net yield after impermanent loss and gas, range tester and IL calculator for Uniswap v3, PancakeSwap v3, Aerodrome and Raydium CLMM pools; free, no wallet needed; estimates depend on stated assumptions |
 | [DeSweep](https://desweep.app/) | — | Multi-wallet balance checker | Checking hundreds of wallets at once | Balances in 35 networks (EVM, Solana, Bitcoin) and NFTs in 28 by public address, up to 1000 wallets per scan, CSV export; optional collection to one wallet with keys kept in the browser tab; first 5 wallets free, no signup |
-
 
 ---
 
