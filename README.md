@@ -387,6 +387,7 @@ Ship dApps faster with production RPC, IPFS, and indexing APIs—Alchemy, QuickN
 | [Infura](https://cryptotoolsdirectory.com/tools/infura)       | 9.5 /10  | Ethereum RPC        | ETH/L2 + IPFS apps          | Mature Consensys RPC/IPFS stack; params: daily request caps, project keys, network endpoints, IPFS gateway |
 | [The Graph](https://cryptotoolsdirectory.com/tools/the-graph) | 9.4 /10  | Indexing protocol   | Subgraph / GraphQL queries  | Decentralized event indexing; params: subgraph schema, query fees, indexing status, network selection      |
 | [Guava Wallet Intelligence](https://www.guavaintel.com/api-reference) | 8.5 /10  | Security & risk API | Token/wallet risk scanning  | Honeypot detection, wallet risk scoring, 31-chain coverage, REST API + MCP server, free tier 10 req/day    |
+| [Siebly](https://siebly.io/) |  | Exchange API SDKs | Node.js / TypeScript apps on CEX and Hyperliquid APIs | MIT SDKs for Binance, Bybit, OKX, Gate, Bitget, KuCoin, Coinbase, Kraken, HTX, Hyperliquid; REST + WebSocket clients, reconnects, TypeScript types; [docs](https://sieblyio.github.io/docs/) |
 
 ---
 
