@@ -65,8 +65,8 @@ Want a slot? [Submit your tool](https://cryptotoolsdirectory.com/) on the direct
 
 | Tool | Score/10 | Type | Best for | Features |
 | ---- | -------- | ---- | -------- | -------- |
+| [PoofBit](https://cryptotoolsdirectory.com/tools/poofbit) | 8.9 | Crash-risk analytics | Checking how deep a coin is in a crash | Daily 11–111 Poof Index for top 250 coins, market Chaos Index, exchange reserve scores, free API & MCP, open methodology |
 | [ARKOSCOPE](https://cryptotoolsdirectory.com/tools/arkoscope) | 9.3 /10 | News | The crypto information network, without the noise | Follow the Feed and project cards in EN, FR, ES, DE and NL |
-| [loweef Crypto Futures Fee Index](https://loweef.io/en/crypto-futures-fee-index/) | 9.4 | Exchange-cost data | Comparing futures taker and maker fees | VIP 0 USDT-margined perpetual taker/maker fees for 8 exchanges with per-row check dates and official fee-page links, effective taker fee after a fee rebate, free CSV; check the exchange for current fees |
 | [MoneyMarket365](https://moneymarket365.com/) | 9.6 /10 | Live market analytics | Crypto + macro overview | Real-time crypto, equity, and commodity prices, AI-ranked news, and prediction markets |
 | [Polymarket](https://cryptotoolsdirectory.com/tools/polymarket) | 9.8 /10 | Event market | On-chain prediction markets | Deep crypto-native liquidity, politics/crypto/culture markets, self-custody |
 | [CoinDesk](https://cryptotoolsdirectory.com/tools/coindesk) | 9.7 /10 | News | Markets, policy, industry | Breaking news, Consensus conference, institutional and regulatory coverage |
@@ -327,6 +327,7 @@ Cycle signals, exchange flows, protocol revenue, and live market context—analy
 | Platform                                                                | Score/10 | Type                  | Best For                       | Features                                                                         |
 | ----------------------------------------------------------------------- | -------- | --------------------- | ------------------------------ | -------------------------------------------------------------------------------- |
 | [MoneyMarket365](https://moneymarket365.com/)                           | 9.6 /10  | Live market analytics | Crypto + macro market overview | Real-time crypto/equity/commodity prices, AI-ranked news, and prediction markets |
+| [PoofBit](https://cryptotoolsdirectory.com/tools/poofbit) | 8.9 | Crash-risk analytics | Checking how deep a coin is in a crash | Daily 11–111 Poof Index for top 250 coins, market Chaos Index, exchange reserve scores, free API & MCP, open methodology |
 | [Glassnode](https://cryptotoolsdirectory.com/tools/glassnode)           | 9.7 /10  | On-chain analytics    | BTC/ETH market cycles          | Realized-cap, holder cohorts, exchange flows, institutional-grade metrics        |
 | [CryptoQuant](https://cryptotoolsdirectory.com/tools/cryptoquant)       | 9.5 /10  | Exchange analytics    | Flow and reserve signals       | Exchange inflows/outflows, miner data, market alerts, trader-friendly dashboards |
 | [Token Terminal](https://cryptotoolsdirectory.com/tools/token-terminal) | 9.4 /10  | Fundamentals          | Protocol revenue and valuation | Fees, revenue, P/S-style metrics, comparable financial views across protocols    |
