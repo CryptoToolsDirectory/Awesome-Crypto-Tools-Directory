@@ -335,6 +335,7 @@ Cycle signals, exchange flows, protocol revenue, and live market context—analy
 | [TronOrb](https://tronorb.com/) | — | TRON on-chain analytics | USDT-on-TRON fees and TRON ecosystem data | Live USDT transfer cost, dApp TVL and exchange-reserve rankings, USDT blacklist and address checks; free, no sign-up |
 | [Squelch](https://squelchalerts.com/) | — | Market alert bot (Telegram) | Exchange-flow, funding and liquidation alerts | Whale moves and exchange flows, funding-rate extremes, open-interest spikes, liquidation clusters and new listings, each category switchable; 24-hour free trial, then $19/mo |
 | [Fear & Greed Index Bot](https://top.gg/bot/1125794469829169253) | — | Market sentiment bot (Discord) | Keeping a Discord server aware of crypto market mood | Crypto Fear & Greed Index in the bot's nickname and status, refreshed every 10 minutes; slash commands for today's value, 2–30 day history and a side-by-side check of data sources; free |
+| [StrictScore](https://strictscore.com/) |  | Crypto fundamentals ratings | Comparing the fundamentals of a coin | AI-rated 0-100 scores for 970 coins on six pillars, with published sector weights, cited sources and a 1-10 risk score; top 20 free with an account (top 10 without), paid plans Lite, Pro, Enterprise |
 
 
 ---
