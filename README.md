@@ -199,6 +199,7 @@ Buy, sell, mint, and research NFTs across Ethereum, Solana, Bitcoin Ordinals, an
 | [Art Blocks](https://cryptotoolsdirectory.com/tools/art-blocks) | 9.0 /10  | Generative  | Ethereum                                  | On-chain generative art mints, curated projects, collector provenance    |
 | [Sudoswap](https://cryptotoolsdirectory.com/tools/sudoswap)     | 8.7 /10  | AMM         | Ethereum                                  | NFT AMM pools for passive liquidity and instant buys/sells               |
 | [Gamma](https://cryptotoolsdirectory.com/tools/sudoswap)        | 8.8 /10  | Marketplace | Bitcoin, Stacks                           | Bitcoin Ordinals and Stacks NFTs, inscriptions, collector tools          |
+| [TG Gifts](https://tggifts.com/) |  | Research | TON (Telegram gifts, usernames) | Value estimate with range and confidence level, collection floors, username valuation from public Fragment data; free web tool |
 
 ---
 
