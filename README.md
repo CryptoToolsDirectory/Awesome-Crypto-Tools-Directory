@@ -275,6 +275,7 @@ Check addresses, tokens, and sites before you click or send. Spot phishing, hone
 | [CryptoStrapon](https://cryptostrapon.com/scam-detector) | — | AI scam detector | Checking a message, link or wallet address before you act | Free, no login; Ethereum and TRON on-chain checks; English and Spanish; 54 documented scam case write-ups, quiz and glossary |
 | [Quantum Audit](https://quantumaudit.app/token/) | — | Token scanner + public records | Checking a new token before buying | Deterministic 0–100 risk score with every factor shown: mint, freeze and owner powers, taxes, LP lock or burn, holder concentration; a dated public record per token; Ethereum, BNB Chain, Base, Arbitrum, Polygon, Solana |
 | [ChainSift](https://chainsift.org/) | — | Token scanner | Honeypot and contract-rights check before buying | Buy and sell simulated against the token's real pool; buy/sell tax; mint, pause and blacklist rights; upgradeable proxies; liquidity locks; holder concentration; every check is a public page with its date; Ethereum, BNB Chain, Base, Arbitrum, Polygon, Robinhood Chain; free, no signup |
+| [twtData Crypto KOL Checker](https://twtdata.com/crypto-kol-checker/) | — | X account check | Vetting a crypto influencer (KOL) before paying for a promo | Free; one X handle, ten checks (verification, account age, follow ratio, posting rate, engagement over the last 20 posts, list memberships, profile photo, bio and link, posts with media, locked or open) and a 0–100 score; reads the account, not its audience |
 
 
 
