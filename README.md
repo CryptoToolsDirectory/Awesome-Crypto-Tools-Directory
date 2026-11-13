@@ -361,6 +361,7 @@ Live prices, rankings, watchlists, and multi-wallet/exchange portfolios—track 
 | [loweef Crypto Futures Fee Index](https://loweef.io/en/crypto-futures-fee-index/) | 9.4 | Exchange-cost data | Comparing futures taker and maker fees | VIP 0 USDT-margined perpetual taker/maker fees for 8 exchanges with per-row check dates and official fee-page links, effective taker fee after a fee rebate, free CSV; check the exchange for current fees |
 | [DefiLPKit](https://defilpkit.com/) | — | LP risk calculator | Checking a concentrated-liquidity pool before depositing | Fee APR, estimated net yield after impermanent loss and gas, range tester and IL calculator for Uniswap v3, PancakeSwap v3, Aerodrome and Raydium CLMM pools; free, no wallet needed; estimates depend on stated assumptions |
 | [DeSweep](https://desweep.app/) | — | Multi-wallet balance checker | Checking hundreds of wallets at once | Balances in 35 networks (EVM, Solana, Bitcoin) and NFTs in 28 by public address, up to 1000 wallets per scan, CSV export; optional collection to one wallet with keys kept in the browser tab; first 5 wallets free, no signup |
+| [Hunt4Coin](https://hunt4coin.com/) | — | Charts, screener & paper trading | Free charting, screening and practice trading | Prices for 18,000+ coins, exchange candle charts from 23 exchanges with 71 indicators, top-100 screener (15m/1h/4h/1d), up to 200 alerts to Telegram/Discord/email, paper trading, backtesting with fees; free, no paid plans |
 
 ---
 
