@@ -275,6 +275,7 @@ Check addresses, tokens, and sites before you click or send. Spot phishing, hone
 | [CryptoStrapon](https://cryptostrapon.com/scam-detector) | — | AI scam detector | Checking a message, link or wallet address before you act | Free, no login; Ethereum and TRON on-chain checks; English and Spanish; 54 documented scam case write-ups, quiz and glossary |
 | [Quantum Audit](https://quantumaudit.app/token/) | — | Token scanner + public records | Checking a new token before buying | Deterministic 0–100 risk score with every factor shown: mint, freeze and owner powers, taxes, LP lock or burn, holder concentration; a dated public record per token; Ethereum, BNB Chain, Base, Arbitrum, Polygon, Solana |
 | [ChainSift](https://chainsift.org/) | — | Token scanner | Honeypot and contract-rights check before buying | Buy and sell simulated against the token's real pool; buy/sell tax; mint, pause and blacklist rights; upgradeable proxies; liquidity locks; holder concentration; every check is a public page with its date; Ethereum, BNB Chain, Base, Arbitrum, Polygon, Robinhood Chain; free, no signup |
+| [MemesOnCronos](https://www.memesoncronos.com/security/) | — | Token scanner | Honeypot and contract-rights check for Cronos tokens before buying | Buy and sell simulated on the token's main pool; buy/sell tax; owner rights (mint, blacklist, pause, upgradable proxy); liquidity and locks; holders counted on chain; Cronos only; free, no signup |
 
 
 
