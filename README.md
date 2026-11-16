@@ -29,6 +29,15 @@ Each category below includes scores, networks, and the features that actually ma
 
 ---
 
+## Newsletter
+
+I write about crypto tools, new listings, and ecosystem updates on Substack:
+
+**[Crypto Tools Directory Newsletter](https://substack.com/@cryptotoolsdirectory)**
+
+No spam, just useful updates. Subscribe for updates on new tools and listings.
+
+---
 
 **Full index**
 
