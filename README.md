@@ -376,6 +376,8 @@ Live prices, rankings, watchlists, and multi-wallet/exchange portfolios—track 
 | [DefiLPKit](https://defilpkit.com/) | — | LP risk calculator | Checking a concentrated-liquidity pool before depositing | Fee APR, estimated net yield after impermanent loss and gas, range tester and IL calculator for Uniswap v3, PancakeSwap v3, Aerodrome and Raydium CLMM pools; free, no wallet needed; estimates depend on stated assumptions |
 | [DeSweep](https://desweep.app/) | — | Multi-wallet balance checker | Checking hundreds of wallets at once | Balances in 35 networks (EVM, Solana, Bitcoin) and NFTs in 28 by public address, up to 1000 wallets per scan, CSV export; optional collection to one wallet with keys kept in the browser tab; first 5 wallets free, no signup |
 | [Perly App](https://perly.io/app) | — | Portfolio tracker | Bitcoin cost basis and profit from your own buys and sells | Exchange CSV import, manual entries or a watched Bitcoin address or xpub; no wallet connection, seed phrase or API keys; amounts encrypted in the browser; P&L in dollars or bitcoin; yearly PDF report (average cost, FIFO, LIFO); price alerts in the browser or Telegram; 14-day free trial, then $7/mo billed yearly or a one-time seat from $21 |
+| [UpdraftFi](https://www.updraftfi.com/) | — | Net worth tracker | Crypto and traditional assets in one net worth | Bitcoin, Solana and EVM wallets, exchange accounts, DeFi positions with earned yield, stocks, cash and property, daily net worth history, FIRE planning, shared ownership |
+
 
 ---
 
