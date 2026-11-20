@@ -379,6 +379,8 @@ Live prices, rankings, watchlists, and multi-wallet/exchange portfolios—track 
 | [UpdraftFi](https://www.updraftfi.com/) | — | Net worth tracker | Crypto and traditional assets in one net worth | Bitcoin, Solana and EVM wallets, exchange accounts, DeFi positions with earned yield, stocks, cash and property, daily net worth history, FIRE planning, shared ownership |
 
 
+| [Free Wallet/Exchange Transfer Pair Checker](https://livastic-vm3-primary-tmp-260920.github.io/defi-payment-proof-qa/guides/crypto-transfer-csv-pair-auditor.html) | — | Local CSV preflight | Reviewing unmatched wallet/exchange transfers | Free browser-only two-CSV candidates, timestamp/hash/amount/fee and duplicate checks; no upload, tax treatment or proof of ownership |
+
 ---
 
 ## ⛏️ Crypto Mining Tools
