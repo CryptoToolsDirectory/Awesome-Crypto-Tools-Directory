@@ -378,6 +378,7 @@ Live prices, rankings, watchlists, and multi-wallet/exchange portfolios—track 
 | [DeSweep](https://desweep.app/) | — | Multi-wallet balance checker | Checking hundreds of wallets at once | Balances in 35 networks (EVM, Solana, Bitcoin) and NFTs in 28 by public address, up to 1000 wallets per scan, CSV export; optional collection to one wallet with keys kept in the browser tab; first 5 wallets free, no signup |
 | [Perly App](https://perly.io/app) | — | Portfolio tracker | Bitcoin cost basis and profit from your own buys and sells | Exchange CSV import, manual entries or a watched Bitcoin address or xpub; no wallet connection, seed phrase or API keys; amounts encrypted in the browser; P&L in dollars or bitcoin; yearly PDF report (average cost, FIFO, LIFO); price alerts in the browser or Telegram; 14-day free trial, then $7/mo billed yearly or a one-time seat from $21 |
 | [UpdraftFi](https://www.updraftfi.com/) | — | Net worth tracker | Crypto and traditional assets in one net worth | Bitcoin, Solana and EVM wallets, exchange accounts, DeFi positions with earned yield, stocks, cash and property, daily net worth history, FIRE planning, shared ownership |
+| [CryptoTrueCost](https://cryptotruecost.com/) |  | Exchange-cost comparison | Finding the cheapest exchange to buy crypto in your country | Total cost per purchase (spread, trading, deposit and withdrawal fees) for 21 coins, refreshed daily from public order books; free, no signup; some exchange links are affiliate links, ranking unaffected |
 
 
 ---
