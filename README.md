@@ -156,6 +156,7 @@ Your keys, your coins—if you pick the right wallet. Compare hot wallets, hardw
 | [Rainbow](https://cryptotoolsdirectory.com/tools/rainbow)                 | 8.9 /10  | Hot      | Mobile, Extension     | Ethereum, Base, Optimism, Arbitrum, Polygon, Zora, + other EVMs                              | Clean Ethereum UX, NFT gallery, swaps, ENS-friendly design            |
 | [Airgate](https://github.com/heyaibi/airgate)                    | 9.2 /10  | Hot      | Android (Device-Owner, Dhizuku) | Offline (no INTERNET) | 14-signal watchdog, auto factory-reset on breach; 100% offline, GPL-3.0 |
 | [Oath Wallet](https://oathwallet.org/) | | Hot | iPhone, iPad | Bitcoin, Ethereum, Solana, XRP, BNB Chain, Polygon, Avalanche, Arbitrum, Optimism, Base, + other networks | Native iOS wallet, send/receive, watch-only accounts, fee review |
+| [Terra Wallet](https://terrawallet.us/) | | Hot | Android, Extension | Ethereum, Bitcoin, Solana, BNB Chain, Polygon, Avalanche, Arbitrum, Optimism, Base, TRON, Fantom, NEAR, Cosmos Hub, Aptos | WalletConnect v2, swaps, bridging, staking for SOL, ETH, BNB and TRX |
 
 ---
 
