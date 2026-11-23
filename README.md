@@ -320,6 +320,7 @@ Research faster with AI copilots for narratives, portfolio Q&A, cited web answer
 | [TraderSpy](https://traderspy.app/)                                 | —        | Market research AI | Futures and smart money   | AI futures alerts, whale positions, position check, MCP for Claude and ChatGPT |
 | [Trade Copilot](https://tradecopilot.app/)                         | —        | Trading journal AI | Reviewing your own trades | Read-only Binance, Bybit, OKX, Coinbase and Hyperliquid; auto journal; each habit by its dollar cost; pre-trade check against your rules |
 | [Coinpred](https://coinpred.com/) |  | Direction analysis AI | Short-term BTC/ETH direction | AI short-term BTC/ETH direction analysis with probability and confidence, Kronos candle forecasts, and openly tracked signal results. Free daily credits. |
+| [FlowFeed](https://flowfeed.cc/) |  | News MCP for AI agents | Live crypto, forex and macro news in Claude or ChatGPT | Remote MCP server (OAuth): 30 sources incl. Bloomberg, FT and 8 central banks, economic calendar, central bank releases; $9/month |
 
 ---
 
