@@ -289,6 +289,7 @@ Check addresses, tokens, and sites before you click or send. Spot phishing, hone
 | [xAxios AI Rug Checker](https://xaxios.com/terminal/rug-check) | — | Solana rug checker | Checking a Solana token before buying | Free AI rug risk score from 0 to 100 with the evidence shown: launch bundles and snipers, holder quality, the creator's past launches; Solana and Robinhood Chain; free Chrome extension |
 | [Provably Fair Verifier](https://github.com/cryptoplayguide/provably-fair-verifier) | — | Open-source verifier | Checking a crypto game round's seeds | Recomputes HMAC-SHA256 outcomes for Dice, Limbo, Crash, Mines and Plinko drop path in the browser; MIT; no signup |
 | [ChainSift](https://chainsift.org/) | — | Token scanner | Honeypot and contract-rights check before buying | Buy and sell simulated against the token's real pool; buy/sell tax; mint, pause and blacklist rights; upgradeable proxies; liquidity locks; holder concentration; every check is a public page with its date; Ethereum, BNB Chain, Base, Arbitrum, Polygon, Robinhood Chain; free, no signup |
+| [OnchainCheck](https://onchaincheck.dev/pricing) | — | Risk API + MCP | Checking a token before an agent buys it | 0–100 rug-risk score with every reason shown: mint, freeze, blacklist, fee and pause powers, upgradeable code, holder concentration, thin liquidity, the deployer's earlier launches; sell simulated against the pool; public hit-and-miss record; Base, Ethereum, Arbitrum, Optimism, Polygon, Solana; $0.002–$0.01 per check via x402 |
 
 
 ---
