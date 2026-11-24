@@ -331,6 +331,7 @@ Cloud platforms that connect to exchange APIs and run automated strategies (grid
 | --- | --- | --- | --- |
 | [Darkbot](https://darkbot.io/) | Cloud bot | Grid, DCA, custom strategies | Visual strategy designer, backtesting, paper trading, 30+ exchanges |
 | [TV-Hub](https://www.tv-hub.org/) | Cloud bot | TradingView alert automation | Webhook execution of TradingView alerts, DCA and grid bots, Telegram signal execution, 7 exchanges, free demo accounts |
+| [PerpGuard](https://perpguard.com/) | Hyperliquid agent | Liquidation protection on Hyperliquid perps | Free Telegram alert when an account gets within 5% of liquidation (address only, no key); optional protection that trims the position before the exchange liquidates it, through a Hyperliquid agent wallet that can trade but never withdraw |
 
 ---
 
