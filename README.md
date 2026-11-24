@@ -353,6 +353,7 @@ Cycle signals, exchange flows, protocol revenue, and live market context—analy
 | [Perly Charts](https://charts.perly.io/) | — | On-chain & market charts | Bitcoin cycle and on-chain indicators | 76 charts: bitcoin price models, MVRV, SOPR, HODL waves, hash ribbons, ETF flows, altcoins, stablecoins and macro; data source named on every chart; 18 languages; free, no sign-in |
 | [Fear & Greed Index Bot](https://top.gg/bot/1125794469829169253) | — | Market sentiment bot (Discord) | Keeping a Discord server aware of crypto market mood | Crypto Fear & Greed Index in the bot's nickname and status, refreshed every 10 minutes; slash commands for today's value, 2–30 day history and a side-by-side check of data sources; free |
 | [StrictScore](https://strictscore.com/) |  | Crypto fundamentals ratings | Comparing the fundamentals of a coin | AI-rated 0-100 scores for 970 coins on six pillars, with published sector weights, cited sources and a 1-10 risk score; top 20 free with an account (top 10 without), paid plans Lite, Pro, Enterprise |
+| [Charts](https://chartsgg.com/) |  | Derivatives analytics & charting | Liquidation levels, funding and open interest on one chart | Liquidation heatmap and map, funding rates across exchanges, open interest, long/short ratio, Hyperliquid whale tracker, Pine Script and MQL indicators, Telegram alerts; free plan, paid from $25/mo |
 
 ---
 
