@@ -354,6 +354,7 @@ Cycle signals, exchange flows, protocol revenue, and live market context—analy
 | [Fear & Greed Index Bot](https://top.gg/bot/1125794469829169253) | — | Market sentiment bot (Discord) | Keeping a Discord server aware of crypto market mood | Crypto Fear & Greed Index in the bot's nickname and status, refreshed every 10 minutes; slash commands for today's value, 2–30 day history and a side-by-side check of data sources; free |
 | [Swiftedge](https://swiftedge.uk/) | — | Order flow charts (browser) | Watching the live order book and every trade | Order book heatmap (4 updates a second, 24+ hours of history), every trade as a bubble, footprint chart, CVD, volume profile, TPO and liquidations for BTC, ETH, SOL, XRP, gold, silver, WTI oil and 24/7 US 500/US 100; free JSON API; free, no sign-up; optional paid club |
 | [StrictScore](https://strictscore.com/) |  | Crypto fundamentals ratings | Comparing the fundamentals of a coin | AI-rated 0-100 scores for 970 coins on six pillars, with published sector weights, cited sources and a 1-10 risk score; top 20 free with an account (top 10 without), paid plans Lite, Pro, Enterprise |
+| [Perpex](https://perpex.co/) |  | Hyperliquid wallet analytics and trading app | Researching Hyperliquid wallets and large traders | Wallet analytics and whale tracker for Hyperliquid; copy any wallet with your own budget and risk limits; perps, spot, HIP-3 stocks and commodities, HIP-4 outcome markets; self-custodial, agent key can trade but cannot withdraw; iOS, Android and web; builder fee of up to 0.10% |
 
 ---
 
