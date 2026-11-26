@@ -355,6 +355,7 @@ Cycle signals, exchange flows, protocol revenue, and live market context—analy
 | [Swiftedge](https://swiftedge.uk/) | — | Order flow charts (browser) | Watching the live order book and every trade | Order book heatmap (4 updates a second, 24+ hours of history), every trade as a bubble, footprint chart, CVD, volume profile, TPO and liquidations for BTC, ETH, SOL, XRP, gold, silver, WTI oil and 24/7 US 500/US 100; free JSON API; free, no sign-up; optional paid club |
 | [StrictScore](https://strictscore.com/) |  | Crypto fundamentals ratings | Comparing the fundamentals of a coin | AI-rated 0-100 scores for 970 coins on six pillars, with published sector weights, cited sources and a 1-10 risk score; top 20 free with an account (top 10 without), paid plans Lite, Pro, Enterprise |
 
+
 ---
 
 ## 💹 Crypto Market Data, Prices & Portfolios
