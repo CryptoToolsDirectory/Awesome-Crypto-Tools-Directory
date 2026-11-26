@@ -29,6 +29,15 @@ Each category below includes scores, networks, and the features that actually ma
 
 ---
 
+## Newsletter
+
+I write about crypto tools, new listings, and ecosystem updates on Substack:
+
+**[Crypto Tools Directory Newsletter](https://substack.com/@cryptotoolsdirectory)**
+
+No spam, just useful updates. Subscribe for updates on new tools and listings.
+
+---
 
 **Full index**
 
@@ -65,8 +74,8 @@ Want a slot? [Submit your tool](https://cryptotoolsdirectory.com/) on the direct
 
 | Tool | Score/10 | Type | Best for | Features |
 | ---- | -------- | ---- | -------- | -------- |
+| [PoofBit](https://cryptotoolsdirectory.com/tools/poofbit) | 8.9 | Crash-risk analytics | Checking how deep a coin is in a crash | Daily 11–111 Poof Index for top 250 coins, market Chaos Index, exchange reserve scores, free API & MCP, open methodology |
 | [ARKOSCOPE](https://cryptotoolsdirectory.com/tools/arkoscope) | 9.3 /10 | News | The crypto information network, without the noise | Follow the Feed and project cards in EN, FR, ES, DE and NL |
-| [loweef Crypto Futures Fee Index](https://loweef.io/en/crypto-futures-fee-index/) | 9.4 | Exchange-cost data | Comparing futures taker and maker fees | VIP 0 USDT-margined perpetual taker/maker fees for 8 exchanges with per-row check dates and official fee-page links, effective taker fee after a fee rebate, free CSV; check the exchange for current fees |
 | [MoneyMarket365](https://moneymarket365.com/) | 9.6 /10 | Live market analytics | Crypto + macro overview | Real-time crypto, equity, and commodity prices, AI-ranked news, and prediction markets |
 | [Polymarket](https://cryptotoolsdirectory.com/tools/polymarket) | 9.8 /10 | Event market | On-chain prediction markets | Deep crypto-native liquidity, politics/crypto/culture markets, self-custody |
 | [CoinDesk](https://cryptotoolsdirectory.com/tools/coindesk) | 9.7 /10 | News | Markets, policy, industry | Breaking news, Consensus conference, institutional and regulatory coverage |
@@ -146,6 +155,7 @@ Your keys, your coins—if you pick the right wallet. Compare hot wallets, hardw
 | [Safe{Wallet}](https://cryptotoolsdirectory.com/tools/safe-wallet)        | 9.3 /10  | Multisig | Web, Mobile           | Ethereum, Base, Arbitrum, Optimism, Polygon, Gnosis, Avalanche, BNB Chain, + other EVMs      | Multisig treasury control, team approvals, DAO/org wallets            |
 | [Rainbow](https://cryptotoolsdirectory.com/tools/rainbow)                 | 8.9 /10  | Hot      | Mobile, Extension     | Ethereum, Base, Optimism, Arbitrum, Polygon, Zora, + other EVMs                              | Clean Ethereum UX, NFT gallery, swaps, ENS-friendly design            |
 | [Airgate](https://github.com/heyaibi/airgate)                    | 9.2 /10  | Hot      | Android (Device-Owner, Dhizuku) | Offline (no INTERNET) | 14-signal watchdog, auto factory-reset on breach; 100% offline, GPL-3.0 |
+| [Oath Wallet](https://oathwallet.org/) | | Hot | iPhone, iPad | Bitcoin, Ethereum, Solana, XRP, BNB Chain, Polygon, Avalanche, Arbitrum, Optimism, Base, + other networks | Native iOS wallet, send/receive, watch-only accounts, fee review |
 
 ---
 
@@ -214,6 +224,7 @@ Trade event outcomes—politics, sports, crypto prices, and macro—with on-chai
 | [Azuro](https://cryptotoolsdirectory.com/tools/azuro)                   | 9.1 /10  | Betting Infrastructure | Polygon, Gnosis, Base, + more | On-chain sports prediction infra powering many frontends and liquidity pools   |
 | [Predict.fun](https://cryptotoolsdirectory.com/tools/predict-fun)       | 9.0 /10  | Event market           | BNB Chain                     | Polymarket-style markets, Binance Wallet distribution, on-chain settlement     |
 | [Myriad Markets](https://cryptotoolsdirectory.com/tools/myriad-markets) | 8.9 /10  | Event market           | Sui / Abstract                | Media-native markets, points/rewards style engagement, crypto settlement       |
+| [Lucyd](https://lucyd.trade/)                                          |          | Event market           | Ethereum Sepolia (testnet)    | Bitcoin Up/Down markets 5m to daily on an onchain order book, free API and MCP |
 
 ---
 
@@ -270,12 +281,14 @@ Check addresses, tokens, and sites before you click or send. Spot phishing, hone
 | [Token Sniffer](https://cryptotoolsdirectory.com/tools/token-sniffer)     | 9.4 /10  | Token scanner  | Contract scam scoring          | Automated risk scores, honeypot checks, scam-code similarity matching         |
 | [GoPlus Security](https://cryptotoolsdirectory.com/tools/goplus-security) | 9.4 /10  | Risk API       | Multi-chain token risk flags   | Honeypot/mint/blacklist flags, wide wallet integrations, 30+ chain coverage   |
 | [Guava Wallet Intelligence](https://www.guavaintel.com)          | 8.5 /10  | Token + wallet scanner | Honeypot, rug pull, wallet risk | 30+ security checks, wallet risk scoring, 31-chain coverage, free tier, MCP server |
+| [gasrent](https://gasrent.click/api.html) |  | Energy rental API | TRON USDT transfer fees | TRON energy and bandwidth rental aggregator; REST API with webhooks and idempotency keys, no KYC, paid in TRX |
 | [CoinUFO](https://coinufo.com/) | — | Solana token scanner | Initial token-risk research | Contract-address lookup, liquidity and holder signals; automated flags are not a security audit or a guarantee of saleability |
 | [Squelch Check](https://squelchalerts.com/check) | — | Telegram bot | Checking a token inside a Telegram group | Honeypot, sell restrictions, mint/freeze/blacklist powers, upgradable transfer fee, LP lock, holder concentration (GoPlus + DexScreener data); Ethereum, Base, Solana; free, no signup |
 | [CryptoStrapon](https://cryptostrapon.com/scam-detector) | — | AI scam detector | Checking a message, link or wallet address before you act | Free, no login; Ethereum and TRON on-chain checks; English and Spanish; 54 documented scam case write-ups, quiz and glossary |
 | [Quantum Audit](https://quantumaudit.app/token/) | — | Token scanner + public records | Checking a new token before buying | Deterministic 0–100 risk score with every factor shown: mint, freeze and owner powers, taxes, LP lock or burn, holder concentration; a dated public record per token; Ethereum, BNB Chain, Base, Arbitrum, Polygon, Solana |
+| [xAxios AI Rug Checker](https://xaxios.com/terminal/rug-check) | — | Solana rug checker | Checking a Solana token before buying | Free AI rug risk score from 0 to 100 with the evidence shown: launch bundles and snipers, holder quality, the creator's past launches; Solana and Robinhood Chain; free Chrome extension |
+| [Provably Fair Verifier](https://github.com/cryptoplayguide/provably-fair-verifier) | — | Open-source verifier | Checking a crypto game round's seeds | Recomputes HMAC-SHA256 outcomes for Dice, Limbo, Crash, Mines and Plinko drop path in the browser; MIT; no signup |
 | [ChainSift](https://chainsift.org/) | — | Token scanner | Honeypot and contract-rights check before buying | Buy and sell simulated against the token's real pool; buy/sell tax; mint, pause and blacklist rights; upgradeable proxies; liquidity locks; holder concentration; every check is a public page with its date; Ethereum, BNB Chain, Base, Arbitrum, Polygon, Robinhood Chain; free, no signup |
-
 
 
 ---
@@ -306,6 +319,7 @@ Research faster with AI copilots for narratives, portfolio Q&A, cited web answer
 | [ChatGPT](https://cryptotoolsdirectory.com/tools/chatgpt)           | 9.3 /10  | General AI         | Strategy and synthesis    | Broad reasoning, research mode, custom GPTs, and multi-domain crypto workflows |
 | [TraderSpy](https://traderspy.app/)                                 | —        | Market research AI | Futures and smart money   | AI futures alerts, whale positions, position check, MCP for Claude and ChatGPT |
 | [Trade Copilot](https://tradecopilot.app/)                         | —        | Trading journal AI | Reviewing your own trades | Read-only Binance, Bybit, OKX, Coinbase and Hyperliquid; auto journal; each habit by its dollar cost; pre-trade check against your rules |
+| [Coinpred](https://coinpred.com/) |  | Direction analysis AI | Short-term BTC/ETH direction | AI short-term BTC/ETH direction analysis with probability and confidence, Kronos candle forecasts, and openly tracked signal results. Free daily credits. |
 
 ---
 
@@ -327,6 +341,7 @@ Cycle signals, exchange flows, protocol revenue, and live market context—analy
 | Platform                                                                | Score/10 | Type                  | Best For                       | Features                                                                         |
 | ----------------------------------------------------------------------- | -------- | --------------------- | ------------------------------ | -------------------------------------------------------------------------------- |
 | [MoneyMarket365](https://moneymarket365.com/)                           | 9.6 /10  | Live market analytics | Crypto + macro market overview | Real-time crypto/equity/commodity prices, AI-ranked news, and prediction markets |
+| [PoofBit](https://cryptotoolsdirectory.com/tools/poofbit) | 8.9 | Crash-risk analytics | Checking how deep a coin is in a crash | Daily 11–111 Poof Index for top 250 coins, market Chaos Index, exchange reserve scores, free API & MCP, open methodology |
 | [Glassnode](https://cryptotoolsdirectory.com/tools/glassnode)           | 9.7 /10  | On-chain analytics    | BTC/ETH market cycles          | Realized-cap, holder cohorts, exchange flows, institutional-grade metrics        |
 | [CryptoQuant](https://cryptotoolsdirectory.com/tools/cryptoquant)       | 9.5 /10  | Exchange analytics    | Flow and reserve signals       | Exchange inflows/outflows, miner data, market alerts, trader-friendly dashboards |
 | [Token Terminal](https://cryptotoolsdirectory.com/tools/token-terminal) | 9.4 /10  | Fundamentals          | Protocol revenue and valuation | Fees, revenue, P/S-style metrics, comparable financial views across protocols    |
@@ -334,8 +349,11 @@ Cycle signals, exchange flows, protocol revenue, and live market context—analy
 | [coinglee](https://coinglee.com/en/) | — | USDT P2P price research | Local fiat-market premiums | P2P advertisement-price observations with benchmark and methodology explanations; quoted advertisements are not guaranteed fills |
 | [TronOrb](https://tronorb.com/) | — | TRON on-chain analytics | USDT-on-TRON fees and TRON ecosystem data | Live USDT transfer cost, dApp TVL and exchange-reserve rankings, USDT blacklist and address checks; free, no sign-up |
 | [Squelch](https://squelchalerts.com/) | — | Market alert bot (Telegram) | Exchange-flow, funding and liquidation alerts | Whale moves and exchange flows, funding-rate extremes, open-interest spikes, liquidation clusters and new listings, each category switchable; 24-hour free trial, then $19/mo |
+| [WalletWatcher Alerts](https://t.me/WalletWatcherAlertsBot) | — | Wallet alert bot (Telegram) | Following specific wallets | Telegram message when a wallet you follow sends or receives funds (BTC, Ethereum and major EVM chains, Solana incl. SPL tokens), with amount and explorer link; Hyperliquid liquidation-distance alerts (8% and 5%) via /hl; 1 wallet free, Pro €6/mo for up to 20 wallets |
+| [Perly Charts](https://charts.perly.io/) | — | On-chain & market charts | Bitcoin cycle and on-chain indicators | 76 charts: bitcoin price models, MVRV, SOPR, HODL waves, hash ribbons, ETF flows, altcoins, stablecoins and macro; data source named on every chart; 18 languages; free, no sign-in |
 | [Fear & Greed Index Bot](https://top.gg/bot/1125794469829169253) | — | Market sentiment bot (Discord) | Keeping a Discord server aware of crypto market mood | Crypto Fear & Greed Index in the bot's nickname and status, refreshed every 10 minutes; slash commands for today's value, 2–30 day history and a side-by-side check of data sources; free |
 | [Swiftedge](https://swiftedge.uk/) | — | Order flow charts (browser) | Watching the live order book and every trade | Order book heatmap (4 updates a second, 24+ hours of history), every trade as a bubble, footprint chart, CVD, volume profile, TPO and liquidations for BTC, ETH, SOL, XRP, gold, silver, WTI oil and 24/7 US 500/US 100; free JSON API; free, no sign-up; optional paid club |
+| [StrictScore](https://strictscore.com/) |  | Crypto fundamentals ratings | Comparing the fundamentals of a coin | AI-rated 0-100 scores for 970 coins on six pillars, with published sector weights, cited sources and a 1-10 risk score; top 20 free with an account (top 10 without), paid plans Lite, Pro, Enterprise |
 
 
 ---
@@ -361,6 +379,9 @@ Live prices, rankings, watchlists, and multi-wallet/exchange portfolios—track 
 | [loweef Crypto Futures Fee Index](https://loweef.io/en/crypto-futures-fee-index/) | 9.4 | Exchange-cost data | Comparing futures taker and maker fees | VIP 0 USDT-margined perpetual taker/maker fees for 8 exchanges with per-row check dates and official fee-page links, effective taker fee after a fee rebate, free CSV; check the exchange for current fees |
 | [DefiLPKit](https://defilpkit.com/) | — | LP risk calculator | Checking a concentrated-liquidity pool before depositing | Fee APR, estimated net yield after impermanent loss and gas, range tester and IL calculator for Uniswap v3, PancakeSwap v3, Aerodrome and Raydium CLMM pools; free, no wallet needed; estimates depend on stated assumptions |
 | [DeSweep](https://desweep.app/) | — | Multi-wallet balance checker | Checking hundreds of wallets at once | Balances in 35 networks (EVM, Solana, Bitcoin) and NFTs in 28 by public address, up to 1000 wallets per scan, CSV export; optional collection to one wallet with keys kept in the browser tab; first 5 wallets free, no signup |
+| [Perly App](https://perly.io/app) | — | Portfolio tracker | Bitcoin cost basis and profit from your own buys and sells | Exchange CSV import, manual entries or a watched Bitcoin address or xpub; no wallet connection, seed phrase or API keys; amounts encrypted in the browser; P&L in dollars or bitcoin; yearly PDF report (average cost, FIFO, LIFO); price alerts in the browser or Telegram; 14-day free trial, then $7/mo billed yearly or a one-time seat from $21 |
+| [UpdraftFi](https://www.updraftfi.com/) | — | Net worth tracker | Crypto and traditional assets in one net worth | Bitcoin, Solana and EVM wallets, exchange accounts, DeFi positions with earned yield, stocks, cash and property, daily net worth history, FIRE planning, shared ownership |
+
 
 ---
 
