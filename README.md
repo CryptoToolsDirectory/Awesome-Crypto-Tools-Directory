@@ -77,7 +77,6 @@ Want a slot? [Submit your tool](https://cryptotoolsdirectory.com/) on the direct
 | [PoofBit](https://cryptotoolsdirectory.com/tools/poofbit) | 8.9 | Crash-risk analytics | Checking how deep a coin is in a crash | Daily 11–111 Poof Index for top 250 coins, market Chaos Index, exchange reserve scores, free API & MCP, open methodology |
 | [ARKOSCOPE](https://cryptotoolsdirectory.com/tools/arkoscope) | 9.3 /10 | News | The crypto information network, without the noise | Follow the Feed and project cards in EN, FR, ES, DE and NL |
 | [MoneyMarket365](https://moneymarket365.com/) | 9.6 /10 | Live market analytics | Crypto + macro overview | Real-time crypto, equity, and commodity prices, AI-ranked news, and prediction markets |
-| [Polymarket](https://cryptotoolsdirectory.com/tools/polymarket) | 9.8 /10 | Event market | On-chain prediction markets | Deep crypto-native liquidity, politics/crypto/culture markets, self-custody |
 | [CoinDesk](https://cryptotoolsdirectory.com/tools/coindesk) | 9.7 /10 | News | Markets, policy, industry | Breaking news, Consensus conference, institutional and regulatory coverage |
 
 ---
